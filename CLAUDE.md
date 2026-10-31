@@ -50,6 +50,13 @@ No saltarse pasos: el mockup no empieza hasta tener estructura y contenido confi
 - Ninguna URL antigua queda sin destino: mapa de 301 documentado antes del lanzamiento.
 - Los testimonios y reseñas solo se marcan con schema si son reales.
 
+## Publicidad (SEM)
+
+- Presupuesto de Google Ads: **S/ 100 al mes como máximo**. Plan en `docs/seo/04-proyecciones-y-plan-sem.md`.
+- La conversión actual de la cuenta es "Vista de una página": no mide contactos. Antes de optimizar, medir formulario, clic en WhatsApp y clic en teléfono.
+- No aplicar cambios a la cuenta de Google Ads sin mostrar una vista previa y recibir aprobación expresa.
+- Las proyecciones de tráfico son hipótesis con rangos y supuestos; nunca prometerlas como resultado.
+
 ## Fuentes de datos
 
 - Google Search Console (`rhinoaudiovisuales.com`) y Google Ads (campaña "Rhino Audiovisuales"), vía el conector Adzviser. Antes de usar un dato, indicar período y fuente.
