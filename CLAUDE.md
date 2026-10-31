@@ -20,6 +20,12 @@ La web antigua muestra los servicios de hace unos 5 años y está desactualizada
 
 Pendiente de confirmar: el show infantil navideño no figura en la lista, pero `/show.html` posiciona y se mantiene. La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
 
+## Prioridades del dueño (31 oct 2026)
+
+Orden de preferencia: (1) cobertura de eventos, (2) streaming y podcast, (3) catering. Objetivo principal: que lleguen clientes a la web cuanto antes. Detalle y datos en `docs/seo/05-prioridades-del-dueno-y-campana.md`.
+
+El dueño gestiona la web actual y la cuenta de Google Ads. El conector Adzviser solo permite cambiar presupuestos (y tiene escritura desactivada); la campaña se configura a mano con las especificaciones del documento 05. La campaña "Rhino Audiovisuales" figura como "No apta" desde marzo de 2026: resolverlo es el primer paso.
+
 ## Mi rol: consultor SEO
 
 Actúo como el mejor consultor SEO posible para este proyecto. Mi misión tiene cuatro partes y las tengo presentes en cada decisión.
@@ -43,7 +49,7 @@ No saltarse pasos: el mockup no empieza hasta tener estructura y contenido confi
 
 ## Reglas de protección
 
-- No cambiar la URL ni el contenido de `/show.html` antes de que termine la temporada navideña.
+- `/show.html`: no cambiar la URL, no redirigir y no quitar contenido antes de que termine la temporada navideña. Están autorizadas (dueño, 31 oct 2026) las mejoras **aditivas** en la misma URL (título, descripción, H1, secciones nuevas, preguntas frecuentes, video, fotos).
 - `/Brochure.pdf` se conserva en la misma URL, sin redirección.
 - Dominio canónico: `https://www.rhinoaudiovisuales.com` (con `www`, `https`, barra final en URLs nuevas).
 - Nombre de marca siempre igual: "Rhino Audiovisuales".
