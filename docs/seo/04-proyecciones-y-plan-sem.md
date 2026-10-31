@@ -204,3 +204,26 @@ La cifra que importa es la de contactos: con estas visitas, **del orden de 6 a 2
 - Pujar por "producción audiovisual" genérica o por "show navideño" genérico.
 - Cambiar tres cosas a la vez: se pierde qué funciona.
 - Esperar resultados de SEO antes de marzo.
+
+---
+
+## 7. Proyección consolidada tras la auditoría (doc 08)
+
+Supuestos del escenario central: bloqueo de rastreadores verificado y resuelto, web nueva lanzada con las redirecciones, ficha de Google verificada con algunas reseñas reales, campaña de Ads apta y midiendo contactos.
+
+**Visitas orgánicas al mes, desde el lanzamiento**
+| Momento | Bajo | Central | Alto |
+|---|---|---|---|
+| Hoy (ago–oct 2026, real) | ~30 | ~30 | ~30 |
+| Meses 1–2 | 20 | 25–50 | 60 |
+| Mes 3 | 40 | 60–100 | 130 |
+| Mes 6 | 60 | 100–170 | 250 |
+| Mes 12 | 60–120 | **150–250** | 300–400 |
+
+- Bajo: el bloqueo no se resuelve o reaparece, sin ficha ni reseñas.
+- Alto: además, primera página en catering y eventos corporativos y más búsquedas con "lima" de las que mide Google Ads.
+- Show navideño: +100 a +300 visitas en diciembre si llega al top 2 (más incierto por la redirección en temporada).
+
+**Reparto central a 12 meses:** "productora audiovisual" y home ~40 · marca ~30 · video corporativo 10–15 · cobertura de eventos 7–15 · catering corporativo 6–15 · eventos corporativos 3–10 · fotografía 6–10 · drone ~7 · show (media anual) ~50 · búsquedas pequeñas ~30.
+
+**Total a 12 meses (todos los canales):** orgánico 150–250 + Ads 55–130 + otros 30–100 ≈ **250–450 visitas al mes**, equivalentes a **5–15 consultas al mes** con confianza baja.
