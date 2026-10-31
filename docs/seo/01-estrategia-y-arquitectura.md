@@ -28,7 +28,7 @@ Siguiente: (2) copy de cada página y (3) tres direcciones visuales + mockup.
 | `/Brochure.pdf` | pos. 2–3, ~53 impresiones | Conservar en la misma URL (200, sin redirección) |
 | Páginas de servicio `video`, `fotografia`, `marketing`, `web` | pos. 2–8, pocas impresiones | 301 a sus equivalentes nuevas |
 | Conversiones de Google Ads | 12 conversiones, ~S/ 11 cada una | Reinstalar etiquetas y eventos de conversión el día del lanzamiento |
-| Enlaces entrantes | 71 enlaces, 51 dominios | Ver sección 9 |
+| Enlaces entrantes | 71 enlaces, 47 dominios; casi todos de baja calidad (ver `02-investigacion-de-mercado.md`) | No hay autoridad de enlaces que proteger; la tarea es conseguir enlaces reales |
 
 ---
 
@@ -88,7 +88,7 @@ Siguiente: (2) copy de cada página y (3) tres direcciones visuales + mockup.
 | 19 hojas CSS bloqueantes, 15 scripts | Velocidad móvil | Consolidar, diferir, optimizar imágenes |
 | Sitemap enviado en 2023, 7 URLs, 1 advertencia | Rastreo limitado | Sitemap nuevo con todas las URLs |
 | Sin dirección visible, solo teléfono y correo | Débil para SEO local | Mostrar NAP completo (nombre, dirección, teléfono) |
-| Backlinks: spam score 51; dominios .info, .fyi, .shop, .party, pages.dev | Posible ruido | Auditar antes de migrar; no desautorizar sin evidencia |
+| Backlinks: spam score 51; dominios .info, .fyi, .shop, .party, pages.dev | Ruido sin valor; la competencia tiene puntuaciones similares (27–50) | No desautorizar sin evidencia de daño; construir enlaces reales (ver documento 2) |
 
 No pude confirmar datos estructurados ni medir Core Web Vitals (el análisis de PageSpeed expiró). Los verifico en la siguiente fase.
 
@@ -252,7 +252,7 @@ Cada pieza: respuesta clara en las primeras líneas, listas y tablas, autor con 
 
 **Directorios y listados** que ya posicionan: Sortlist, geotv.pe, bcontent.media. Pedir alta o mención.
 
-**Enlaces entrantes:** auditar los 71 enlaces (spam score 51). Los de dominios dudosos (.info, .fyi, .shop, .party) se revisan uno a uno; solo se desautoriza lo claramente tóxico. Construir enlaces desde clientes, cámaras de comercio, medios locales y proveedores.
+**Enlaces entrantes:** la investigación del documento 2 muestra que los 47 dominios que enlazan hoy son en su mayoría spam o directorios genéricos, sin ningún enlace peruano relevante. No hay que desautorizarlos sin evidencia de daño (la competencia tiene perfiles parecidos). Lo importante es construir enlaces reales: clientes, cámaras de comercio, medios locales, proveedores y los directorios del rubro (Sortlist, geotv.pe, bcontent).
 
 **Nombre de marca.** Hay búsquedas como "rino producciones", "rhino peru", "empresa rhino". Usar siempre "Rhino Audiovisuales" y enlazar redes sociales en el schema (`sameAs`).
 
