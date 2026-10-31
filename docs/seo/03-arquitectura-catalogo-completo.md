@@ -40,7 +40,7 @@ Los términos de la misma familia se agrupan porque Google los trata como casi i
 \* **Intención por verificar:** son términos que atraen también a quien busca aprender, a consumidores o a productos. Antes de escribir cada página reviso la SERP de Google para confirmar si compran o aprenden.
 
 **Lo que muestran los números:**
-1. **Catering y eventos suman más demanda que el audiovisual.** Tu mayor volumen de búsqueda potencial no está en el rubro de tu nombre.
+1. **[Corregido en la auditoría, doc 08]** Catering y eventos suman más búsquedas totales, pero la mayoría son de estudiantes o de público social. Con intención corporativa: catering ~300/mes y eventos ~150–300/mes, frente a ~800/mes de producción audiovisual.
 2. El audiovisual es el negocio más pequeño en volumen, pero es tu marca y tu mejor activo posicionado.
 3. Drone y streaming casi no se buscan con intención de servicio. Se venden mejor **dentro de otras páginas** (eventos, inmobiliario), con anuncios y con contacto directo.
 4. Desarrollo web y marketing digital tienen demanda, pero compites con agencias especializadas con mucha más autoridad. **No es el lugar para perseguir las búsquedas grandes.**
@@ -82,7 +82,7 @@ Una web con **nueve servicios** corre un riesgo: que Google (y el cliente) no en
 │   ├── /servicios/fotografia/                 (reemplaza fotografia.html)
 │   ├── /servicios/organizacion-de-eventos/    Pilar de eventos: propuesta integral
 │   ├── /servicios/cobertura-de-eventos/
-│   ├── /servicios/streaming/
+│   ├── /servicios/streaming-y-podcast/
 │   ├── /servicios/catering-corporativo/
 │   ├── /servicios/marketing-digital/          (reemplaza marketing.html)
 │   └── /servicios/desarrollo-web/             (reemplaza web.html)

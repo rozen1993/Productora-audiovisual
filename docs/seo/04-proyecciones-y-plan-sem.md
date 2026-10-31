@@ -2,6 +2,8 @@
 
 Documento 4. Fecha de los datos: 31 de octubre de 2026. Mercado: Lima, Perú.
 
+> **Revisado en la auditoría (doc 08):** el escenario central orgánico a 12 meses baja a 150–250 visitas al mes; 400 queda como escenario alto.
+>
 > **Todas las cifras de proyección son hipótesis con supuestos explícitos, no promesas.** Donde hay datos reales, lo indico. Donde no, doy rangos.
 
 ---

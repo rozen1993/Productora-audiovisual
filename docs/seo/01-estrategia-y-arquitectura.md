@@ -15,7 +15,7 @@ Siguiente: (2) copy de cada página y (3) tres direcciones visuales + mockup.
 2. **El SEO es pobre por estructura, no por falta de autoridad.** Hoy hay 7 URLs. Cientos de búsquedas aparecen en páginas 1–2 sin clics porque ninguna página responde a esa intención (video corporativo, comerciales, eventos, streaming, videoclips, precios).
 3. **El mercado de búsqueda en Perú es pequeño.** Esto condiciona las expectativas (ver sección 4). La expansión viene de combinar tres palancas: páginas por servicio e intención, SEO local (ficha de Google) y contenido que atrape a quien aún está decidiendo.
 4. **Calendario crítico: no migrar `show.html` ahora.** "show navideño" pasa de 320 búsquedas/mes en octubre a 1.600 en noviembre y 2.400 en diciembre. La temporada empieza esta semana. **Recomiendo lanzar la web nueva a partir del 10 de enero de 2027** y preparar todo mientras tanto.
-5. **Corrección a un diagnóstico anterior.** Dije que Search Console leía el título de todas las páginas como "One moment, please...". Eso era un artefacto de la herramienta de Adzviser, no de tu web. Un rastreo directo muestra que la home sí tiene título, H1 y descripción (ver sección 5).
+5. **[Revisado en la auditoría, doc 08: esta corrección fue prematura; el aviso puede ser un bloqueo real de rastreadores.] Corrección a un diagnóstico anterior.** Dije que Search Console leía el título de todas las páginas como "One moment, please...". Eso era un artefacto de la herramienta de Adzviser, no de tu web. Un rastreo directo muestra que la home sí tiene título, H1 y descripción (ver sección 5).
 
 ---
 

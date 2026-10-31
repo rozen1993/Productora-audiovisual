@@ -64,6 +64,7 @@ Tipografías propias (máximo 2 familias), CSS crítico en línea, sin librería
   ]
 }
 ```
+- `vercel.json` incluye además `/index.html` → `/`.
 - `www` principal; el dominio sin `www` se redirige con 301 desde la configuración de dominios de Vercel.
 - **`/show.html`:**
   - **Opción descartada por el dueño (riesgo mínimo):** se publica igual en la misma URL (archivo en `public/` o ruta equivalente; **verifico al construir cuál funciona con la configuración de directorios**) y se redirige a `/show-infantil-navideno/` en enero.
@@ -116,7 +117,7 @@ Que una empresa de Lima que necesita un video, un evento o una transmisión **en
 ### B.2 Público
 - **Principal:** responsables de marketing, comunicación, eventos y administración de empresas e instituciones en Lima. Deciden rápido, comparan 3–5 proveedores y miran el portafolio antes de escribir.
 - **Secundario:** organizadores de shows infantiles navideños (temporada).
-- Consultan **desde el móvil** una buena parte del tiempo: el diseño parte del móvil.
+- **Corregido en la auditoría (doc 08):** el 77 % de los clics de ago–oct 2026 vino de escritorio. Escritorio y móvil se diseñan con el mismo cuidado; el escritorio es la vista principal del cliente corporativo.
 
 ### B.3 Posicionamiento y tono
 "Productora audiovisual que resuelve el evento completo." Profesional, cercano, directo, sin exagerar. Evitar tono publicitario vacío ("somos los mejores").

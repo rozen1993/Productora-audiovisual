@@ -67,13 +67,15 @@ No inventar datos de la empresa. El dueño aceptó trabajar con contenido provis
 ## Fuentes de datos
 
 - Google Search Console (`rhinoaudiovisuales.com`) y Google Ads (campaña "Rhino Audiovisuales"), vía el conector Adzviser. Antes de usar un dato, indicar período y fuente.
-- Ahrefs y DataForSEO para volúmenes, SERP, competencia, enlaces y rastreo de la web.
+- DataForSEO para volúmenes, SERP, competencia, enlaces y rastreo de la web. Ahrefs está conectado pero devuelve "plan insuficiente".
+- **Hallazgo crítico pendiente (auditoría, doc 08):** Search Console no tiene impresiones entre dic 2025 y jun 2026. Hipótesis: un desafío anti-bots del hosting ("One moment, please...") bloquea a Googlebot y AdsBot. Verificarlo antes de dar por buenas las posiciones actuales.
 - Los volúmenes de Google Ads para Perú subestiman las búsquedas con "lima" (Search Console muestra más). Contrastar siempre con Search Console.
-- Las herramientas de terceros pueden fallar o leer mal una página (ya ocurrió con el título "One moment, please..."). Verificar antes de dar un hallazgo por cierto.
+- Las herramientas de terceros pueden fallar o leer mal una página. Verificar antes de dar un hallazgo por cierto, y también antes de descartarlo (el aviso "One moment, please..." se descartó demasiado pronto).
 
 ## Convenciones de contenido
 
 - Title ≤ 60 caracteres, meta description ≤ 155, un solo H1 por página.
-- Una palabra clave principal por URL; ver el mapa en `docs/seo/01-estrategia-y-arquitectura.md`.
+- Una palabra clave principal por URL; ver el mapa en `docs/seo/03-arquitectura-catalogo-completo.md`.
+- Contraste mínimo WCAG AA (4,5:1 en texto normal). No afirmar "un solo equipo" ni similares sin que el dueño lo confirme.
 - Textos en español claro, sin relleno de palabras clave ni `meta keywords`.
 - Todo documento de estrategia indica fecha de los datos y qué es hipótesis.
