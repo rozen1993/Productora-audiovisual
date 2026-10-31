@@ -69,6 +69,7 @@ No inventar datos de la empresa. El dueño aceptó trabajar con contenido provis
 - Google Search Console (`rhinoaudiovisuales.com`) y Google Ads (campaña "Rhino Audiovisuales"), vía el conector Adzviser. Antes de usar un dato, indicar período y fuente.
 - DataForSEO para volúmenes, SERP, competencia, enlaces y rastreo de la web. Ahrefs está conectado pero devuelve "plan insuficiente".
 - **Hallazgo crítico pendiente (auditoría, doc 08):** Search Console no tiene impresiones entre dic 2025 y jun 2026. Hipótesis: un desafío anti-bots del hosting ("One moment, please...") bloquea a Googlebot y AdsBot. Verificarlo antes de dar por buenas las posiciones actuales.
+- **Revisión crítica (doc 09):** Rhino no tiene ficha de Google Maps (0 resultados) ni menciones en respuestas de IA; ChatGPT recomienda a competidores apoyándose en fichas con reseñas y en el directorio InEventos. Oportunidades pendientes de confirmar con el dueño: fotos corporativas (480/mes), fiesta de fin de año para empresas, alquiler de pantallas LED y sonido, activaciones BTL, inmobiliario con drone, maestro de ceremonias.
 - Los volúmenes de Google Ads para Perú subestiman las búsquedas con "lima" (Search Console muestra más). Contrastar siempre con Search Console.
 - Las herramientas de terceros pueden fallar o leer mal una página. Verificar antes de dar un hallazgo por cierto, y también antes de descartarlo (el aviso "One moment, please..." se descartó demasiado pronto).
 
