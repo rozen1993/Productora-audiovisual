@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="es-PE">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Dirección C — Bold | Rhino Audiovisuales</title>
+<link rel="stylesheet" href="fonts.css">
+<style>
+:root{--y:#ffd60a;--k:#0a0a0a;--w:#fffdf6;--b:#2d5bff;--p:#ff6b9a;--line:#0a0a0a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--w);color:var(--k);font-family:'Space Grotesk',Inter,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1220px;margin:0 auto;padding:0 28px}
+.label{display:block;text-align:center;font:700 11px 'Space Grotesk';letter-spacing:.2em;color:var(--y);background:var(--k);padding:8px 10px;text-transform:uppercase}
+header{background:var(--w);border-bottom:3px solid var(--k)}
+.nav{display:flex;align-items:center;justify-content:space-between;height:84px}
+.logo{display:flex;align-items:center;gap:12px}
+.logo svg{width:42px;height:42px}
+.logo b{font-weight:700;font-size:28px;letter-spacing:-.03em;line-height:1;display:block}
+.logo small{font-size:10px;font-weight:700;letter-spacing:.24em;text-transform:uppercase}
+.links{display:flex;gap:32px;font-weight:600;font-size:16px}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:16px 28px;border:3px solid var(--k);font-weight:700;font-size:16px;box-shadow:5px 5px 0 var(--k);border-radius:10px}
+.btn.k{background:var(--k);color:var(--y)}
+.btn.w{background:#fff;color:var(--k)}
+.btn.y{background:var(--y);color:var(--k)}
+.navbtn{padding:11px 20px;font-size:15px;box-shadow:4px 4px 0 var(--k)}
+.hero{background:var(--y);border-bottom:3px solid var(--k);position:relative;overflow:hidden}
+.hg{display:grid;grid-template-columns:1.25fr .75fr;gap:40px;align-items:center;padding:70px 28px 80px;position:relative}
+.tag{display:inline-block;background:var(--k);color:var(--y);font-weight:700;font-size:13px;letter-spacing:.16em;text-transform:uppercase;padding:8px 14px;border-radius:8px}
+h1{font-weight:700;font-size:112px;line-height:1.1;letter-spacing:-.045em;margin:24px 0 26px}
+h1 mark{display:inline-block;background:var(--k);color:var(--y);padding:0 .12em .04em;line-height:1;border-radius:14px}
+.lead{font-size:21px;font-weight:500;max-width:560px}
+.cta{display:flex;gap:18px;margin-top:36px;flex-wrap:wrap}
+.art{position:relative;aspect-ratio:1/1.05}
+.art .a{position:absolute;border:3px solid var(--k)}
+.a1{inset:12% 10% 6% 6%;background:var(--b);border-radius:18px;box-shadow:10px 10px 0 var(--k)}
+.a2{width:46%;height:34%;right:0;top:0;background:var(--p);border-radius:50%}
+.a3{left:0;bottom:0;width:34%;height:30%;background:var(--w);border-radius:14px;transform:rotate(-8deg)}
+.horn{position:absolute;left:22%;top:20%;width:56%;z-index:2}
+.stick{position:absolute;right:2%;bottom:6%;z-index:3;background:#fff;border:3px solid var(--k);border-radius:14px;padding:12px 16px;font-weight:700;font-size:15px;box-shadow:5px 5px 0 var(--k);display:flex;gap:10px;align-items:center;transform:rotate(3deg)}
+.stick i{width:30px;height:30px;border-radius:50%;background:var(--k);display:grid;place-items:center}
+.stick i:after{content:"";border-left:9px solid var(--y);border-top:6px solid transparent;border-bottom:6px solid transparent;margin-left:2px}
+.marq{background:var(--k);color:var(--y);border-bottom:3px solid var(--k);overflow:hidden;white-space:nowrap;font-weight:700;font-size:26px;letter-spacing:-.01em;padding:16px 0}
+.marq span{display:inline-block;margin:0 22px}
+.marq em{font-style:normal;color:var(--w)}
+section{padding:92px 0}
+.sh{display:flex;justify-content:space-between;align-items:end;gap:30px;margin-bottom:46px}
+.sh h2{font-weight:700;font-size:72px;line-height:.98;letter-spacing:-.04em}
+.sh p{max-width:380px;font-weight:500}
+.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:26px}
+.card{background:#fff;border:3px solid var(--k);border-radius:18px;padding:28px;box-shadow:7px 7px 0 var(--k);display:flex;flex-direction:column;gap:12px;min-height:262px}
+.card .n{align-self:flex-start;font-weight:700;font-size:15px;padding:5px 12px;border:3px solid var(--k);border-radius:99px}
+.card:nth-child(3n+1) .n{background:var(--y)}.card:nth-child(3n+2) .n{background:var(--p)}.card:nth-child(3n) .n{background:#8fb0ff}
+.card h3{font-weight:700;font-size:30px;line-height:1.02;letter-spacing:-.03em}
+.card p{font-weight:500;font-size:16px}
+.card .go{margin-top:auto;font-weight:700}
+.card .go:after{content:" ↗"}
+.also{margin-top:34px;font-weight:600;font-size:18px}
+.blue{background:var(--b);color:#fff;border-top:3px solid var(--k);border-bottom:3px solid var(--k)}
+.blue .sh h2{color:#fff}
+.why{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.why div{background:#fff;color:var(--k);border:3px solid var(--k);border-radius:18px;padding:26px;box-shadow:6px 6px 0 var(--k)}
+.why h4{font-weight:700;font-size:23px;line-height:1.08;letter-spacing:-.025em;margin-bottom:8px}
+.why p{font-weight:500;font-size:15px}
+.pf{display:grid;grid-template-columns:1fr 1fr;gap:26px}
+.tile{border:3px solid var(--k);border-radius:20px;padding:28px;min-height:330px;display:flex;flex-direction:column;justify-content:space-between;box-shadow:8px 8px 0 var(--k);position:relative}
+.tile .t{align-self:flex-start;font-weight:700;font-size:13px;letter-spacing:.14em;text-transform:uppercase;background:var(--k);color:#fff;padding:6px 12px;border-radius:8px}
+.tile h3{font-weight:700;font-size:54px;line-height:.98;letter-spacing:-.045em;margin:20px 0 10px}
+.tile p{font-weight:500;max-width:480px}
+.tile .pl{position:absolute;right:24px;top:24px;width:58px;height:58px;border-radius:50%;background:#fff;border:3px solid var(--k);display:grid;place-items:center}
+.tile .pl:after{content:"";border-left:15px solid var(--k);border-top:9px solid transparent;border-bottom:9px solid transparent;margin-left:4px}
+.t1{background:var(--y)}.t2{background:var(--p)}.t3{background:#8fb0ff}.t4{background:#fff}
+.note{margin-top:22px;font-size:13px;font-weight:500}
+.ysec{background:var(--y);border-top:3px solid var(--k);border-bottom:3px solid var(--k)}
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:22px}
+.steps div{background:#fff;border:3px solid var(--k);border-radius:18px;padding:26px;box-shadow:6px 6px 0 var(--k)}
+.steps .n{font-weight:700;font-size:78px;line-height:.9;letter-spacing:-.05em}
+.steps h4{font-weight:700;font-size:23px;line-height:1.1;margin:10px 0 6px;letter-spacing:-.02em}
+.steps p{font-weight:500;font-size:15px}
+.faq details{border:3px solid var(--k);border-radius:16px;padding:20px 24px;margin-bottom:14px;background:#fff;box-shadow:5px 5px 0 var(--k)}
+.faq summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;gap:20px;font-weight:700;font-size:21px;letter-spacing:-.02em}
+.faq summary:after{content:"+";width:34px;height:34px;border:3px solid var(--k);border-radius:8px;display:grid;place-items:center;font-size:22px;background:var(--y);flex:none}
+.faq details[open] summary:after{content:"–"}
+.faq p{margin-top:14px;font-weight:500;max-width:780px}
+.cta2{background:var(--k);color:#fff;border-radius:26px;padding:64px;display:grid;grid-template-columns:1.3fr .7fr;gap:30px;align-items:center}
+.cta2 h2{font-weight:700;font-size:62px;line-height:.98;letter-spacing:-.04em;color:var(--y)}
+.cta2 p{margin-top:12px;font-weight:500}
+.cta2 .btn{background:var(--y);color:var(--k);border-color:var(--y);box-shadow:5px 5px 0 #fff;margin-bottom:14px}
+.cta2 small{display:block;font-weight:600}
+footer{border-top:3px solid var(--k);padding:56px 0 40px;font-weight:500;font-size:15px}
+.fg{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px}
+footer h5{font-weight:700;font-size:20px;margin-bottom:12px;letter-spacing:-.02em}
+footer li{list-style:none;margin:6px 0}
+.copy{margin-top:36px;padding-top:20px;border-top:3px solid var(--k);font-size:13px;display:flex;justify-content:space-between}
+@media(max-width:820px){
+ .wrap{padding:0 20px}.links,.navbtn{display:none}.nav{height:70px}
+ .hg{grid-template-columns:1fr;padding:44px 20px 56px;gap:34px}h1{font-size:60px}.lead{font-size:18px}
+ .art{width:100%;max-width:330px;margin:0 auto}.btn{padding:14px 22px;font-size:15px}
+ .marq{font-size:20px}
+ section{padding:60px 0}.sh{flex-direction:column;align-items:flex-start;margin-bottom:30px}.sh h2{font-size:46px}
+ .grid3,.pf,.why,.steps,.cta2{grid-template-columns:1fr}
+ .tile{min-height:250px}.tile h3{font-size:40px}.cta2{padding:34px 26px}.cta2 h2{font-size:42px}
+ .fg{grid-template-columns:1fr}.copy{flex-direction:column;gap:6px}
+}
+</style>
+</head>
+<body>
+<div class="label">Dirección C · Bold</div>
+<header><div class="wrap nav">
+ <a class="logo"><svg viewBox="0 0 42 42"><rect x="1.5" y="1.5" width="39" height="39" rx="9" fill="#ffd60a" stroke="#0a0a0a" stroke-width="3"/><path d="M9 32 L23 8 L30 21 L33 32 Z" fill="#0a0a0a"/></svg><div><b>Rhino</b><small>Audiovisuales</small></div></a>
+ <nav class="links"><a>Servicios</a><a>Portafolio</a><a>Nosotros</a><a>Contacto</a></nav>
+ <a class="btn k navbtn">Cotizar</a>
+</div></header>
+
+<div class="hero"><div class="wrap hg">
+ <div>
+  <span class="tag">Lima, Perú</span>
+  <h1>Productora <mark>audiovisual</mark> en Lima</h1>
+  <p class="lead">Producimos tus videos, cubrimos y transmitimos tus eventos, y nos encargamos de la fotografía, el drone y el catering. Todo en un solo servicio.</p>
+  <div class="cta"><a class="btn k">Cotiza por WhatsApp</a><a class="btn w">Ver portafolio</a></div>
+ </div>
+ <div class="art">
+  <div class="a a1"></div><div class="a a2"></div><div class="a a3"></div>
+  <svg class="horn" viewBox="0 0 200 200"><path d="M22 184 C74 152 112 92 130 12 C152 84 172 140 190 184 Z" fill="#ffd60a" stroke="#0a0a0a" stroke-width="7" stroke-linejoin="round"/><path d="M60 184 C92 160 118 118 130 62" fill="none" stroke="#0a0a0a" stroke-width="5" stroke-linecap="round" opacity=".35"/></svg>
+  <div class="stick"><i></i>Showreel · por definir</div>
+ </div>
+</div></div>
+<div class="marq"><span>VIDEO</span><em>✦</em><span>EVENTOS</span><em>✦</em><span>STREAMING</span><em>✦</em><span>FOTO</span><em>✦</em><span>DRONE</span><em>✦</em><span>CATERING</span><em>✦</em><span>VIDEO</span><em>✦</em><span>EVENTOS</span></div>
+
+<section><div class="wrap">
+ <div class="sh"><h2>Lo que hacemos</h2><p>Del video corporativo al evento completo, con un solo equipo.</p></div>
+ <div class="grid3">
+  <div class="card"><span class="n">01</span><h3>Producción audiovisual</h3><p>Videos corporativos, spots y contenido que comunica, de la idea a la entrega.</p><span class="go">Ver servicio</span></div>
+  <div class="card"><span class="n">02</span><h3>Cobertura de eventos</h3><p>Foto y video de tu evento, con resumen y clips listos para redes.</p><span class="go">Ver servicio</span></div>
+  <div class="card"><span class="n">03</span><h3>Streaming y video podcast</h3><p>Transmisión en vivo con producción multicámara, para eventos y conferencias.</p><span class="go">Ver servicio</span></div>
+  <div class="card"><span class="n">04</span><h3>Organización de eventos</h3><p>Planificación, montaje y coordinación técnica de principio a fin.</p><span class="go">Ver servicio</span></div>
+  <div class="card"><span class="n">05</span><h3>Catering corporativo</h3><p>Coffee breaks, desayunos y almuerzos para tus reuniones y eventos.</p><span class="go">Ver servicio</span></div>
+  <div class="card"><span class="n">06</span><h3>Fotografía y drone</h3><p>Imagen profesional, también desde el aire con DJI Mavic 4 Pro.</p><span class="go">Ver servicio</span></div>
+ </div>
+ <p class="also">También: marketing digital y redes sociales · diseño y desarrollo web.</p>
+</div></section>
+
+<section class="blue"><div class="wrap">
+ <div class="sh"><h2>Por qué Rhino</h2></div>
+ <div class="why">
+  <div><h4>Un solo equipo para todo el evento</h4><p>Producción, imagen, transmisión y atención, sin coordinar a cinco proveedores.</p></div>
+  <div><h4>De la idea a la entrega</h4><p>Guion, rodaje, edición y entrega en un mismo lugar.</p></div>
+  <div><h4>Equipo profesional</h4><p>Incluido drone DJI Mavic 4 Pro para tomas aéreas.</p></div>
+  <div><h4>Atención directa</h4><p>Respondemos por WhatsApp, sin intermediarios.</p></div>
+ </div>
+</div></section>
+
+<section><div class="wrap">
+ <div class="sh"><h2>Portafolio</h2><p>Proyectos reales de Rhino Audiovisuales.</p></div>
+ <div class="pf">
+  <div class="tile t1"><span class="pl"></span><span class="t">Video institucional</span><div><h3>Redinter</h3><p>Proyecto conmemorativo que destaca 25 años de crecimiento de Redinter en el Perú.</p></div></div>
+  <div class="tile t2"><span class="pl"></span><span class="t">Cobertura de evento</span><div><h3>Premium Tasting Lima</h3><p>Una cita internacional que unió a expertos, tradición vitivinícola y conexiones auténticas.</p></div></div>
+  <div class="tile t3"><span class="pl"></span><span class="t">Cobertura de evento</span><div><h3>Bloom of Colors</h3><p>Evento que impulsa la cultura electrónica en Lima, fusionando música, arte visual y comunidad.</p></div></div>
+  <div class="tile t4"><span class="pl"></span><span class="t">Campaña</span><div><h3>Héroe Adidas</h3><p>Campaña que honra a los colaboradores de Adidas y reconoce su servicio y su impacto humano.</p></div></div>
+ </div>
+ <p class="note">Imágenes por definir: aquí irán fotogramas y videos reales de cada proyecto.</p>
+</div></section>
+
+<section class="ysec"><div class="wrap">
+ <div class="sh"><h2>Cómo trabajamos</h2></div>
+ <div class="steps">
+  <div><div class="n">1</div><h4>Brief y propuesta</h4><p>Nos cuentas qué necesitas y te enviamos una propuesta clara.</p></div>
+  <div><div class="n">2</div><h4>Preproducción</h4><p>Planificamos guion, equipo, fechas y logística.</p></div>
+  <div><div class="n">3</div><h4>Producción</h4><p>Rodamos, fotografiamos o transmitimos tu evento.</p></div>
+  <div><div class="n">4</div><h4>Postproducción y entrega</h4><p>Editamos y te entregamos el material listo para usar.</p></div>
+ </div>
+</div></section>
+
+<section><div class="wrap">
+ <div class="sh"><h2>Preguntas frecuentes</h2></div>
+ <div class="faq">
+  <details open><summary>¿Qué hace una productora audiovisual?</summary><p>Planifica, graba y edita contenido en video, foto y audio para empresas y marcas: videos corporativos, spots, cobertura de eventos, transmisiones en vivo y contenido para redes. En Rhino además organizamos eventos y ofrecemos catering.</p></details>
+  <details><summary>¿Qué tipos de proyectos realizan?</summary><p>Videos corporativos e institucionales, spots, cobertura y streaming de eventos, fotografía, drone, animación y organización de eventos.</p></details>
+  <details><summary>¿Trabajan solo en Lima?</summary><p>Por completar.</p></details>
+  <details><summary>¿Cómo pido una cotización?</summary><p>Escríbenos por WhatsApp o usa el formulario con tu fecha, lugar y necesidad.</p></details>
+ </div>
+</div></section>
+
+<section style="padding-top:0"><div class="wrap">
+ <div class="cta2"><div><h2>¿Tienes un proyecto o un evento en mente?</h2><p>Cuéntanoslo y te respondemos con una propuesta.</p></div>
+ <div><a class="btn">Cotiza por WhatsApp</a><small>(+51) 965 683 542</small><small>info@rhinoaudiovisuales.com</small></div></div>
+</div></section>
+
+<footer><div class="wrap">
+ <div class="fg">
+  <div><a class="logo"><svg viewBox="0 0 42 42"><rect x="1.5" y="1.5" width="39" height="39" rx="9" fill="#ffd60a" stroke="#0a0a0a" stroke-width="3"/><path d="M9 32 L23 8 L30 21 L33 32 Z" fill="#0a0a0a"/></svg><div><b>Rhino</b><small>Audiovisuales</small></div></a><p style="margin-top:16px;max-width:320px">Productora audiovisual en Lima. Video, eventos, streaming, fotografía, drone y catering.</p></div>
+  <div><h5>Servicios</h5><ul><li>Producción audiovisual</li><li>Cobertura de eventos</li><li>Streaming y podcast</li><li>Organización de eventos</li><li>Catering corporativo</li></ul></div>
+  <div><h5>Contacto</h5><ul><li>(+51) 965 683 542</li><li>info@rhinoaudiovisuales.com</li><li>8:00 a. m. – 6:00 p. m.</li><li>Lima, Perú</li></ul></div>
+ </div>
+ <div class="copy"><span>© Rhino Audiovisuales</span><span>Política de privacidad</span></div>
+</div></footer>
+</body>
+</html>
