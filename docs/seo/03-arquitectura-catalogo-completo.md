@@ -113,7 +113,7 @@ Una web con **nueve servicios** corre un riesgo: que Google (y el cliente) no en
 | `/fotografia.html` | `/servicios/fotografia/` | Lanzamiento |
 | `/marketing.html` | `/servicios/marketing-digital/` | Lanzamiento |
 | `/web.html` | `/servicios/desarrollo-web/` | Lanzamiento |
-| `/show.html` | `/show-infantil-navideno/` | Lanzamiento (tras temporada) |
+| `/show.html` | `/show-infantil-navideno/` | Lanzamiento (decisión del dueño: sin esperar a la temporada) |
 | `/Brochure.pdf` | — (sigue en 200) | — |
 
 ---

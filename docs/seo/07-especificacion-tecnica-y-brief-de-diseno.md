@@ -66,8 +66,9 @@ Tipografías propias (máximo 2 familias), CSS crítico en línea, sin librería
 ```
 - `www` principal; el dominio sin `www` se redirige con 301 desde la configuración de dominios de Vercel.
 - **`/show.html`:**
-  - **Opción recomendada (riesgo mínimo):** se publica igual en la misma URL (archivo en `public/` o ruta equivalente; **verifico al construir cuál funciona con la configuración de directorios**) y se redirige a `/show-infantil-navideno/` en enero.
-  - **Opción asumiendo riesgo (decisión del dueño):** redirigir desde el primer día añadiendo una línea más. Las posiciones del show pueden moverse durante semanas, en plena temporada.
+  - **Opción descartada por el dueño (riesgo mínimo):** se publica igual en la misma URL (archivo en `public/` o ruta equivalente; **verifico al construir cuál funciona con la configuración de directorios**) y se redirige a `/show-infantil-navideno/` en enero.
+  - **Decisión del dueño (31 oct 2026): `/show.html` redirige con 301 desde el primer día del lanzamiento.** Las posiciones del show pueden moverse durante semanas, en plena temporada. Para reducirlo: la página nueva conserva todo el texto que ya posiciona, se solicita su indexación el mismo día y los anuncios del show apuntan a la URL nueva.
+- Nota: en Vercel, `permanent: true` envía un 308 (Google lo trata igual que un 301). El archivo `vercel.json` del repositorio usa `statusCode: 301`.
 - **`/Brochure.pdf`:** sin redirección; el archivo se publica con ese nombre exacto (Vercel distingue mayúsculas).
 - Después del cambio se prueba cada redirección con una petición real (código 301 y destino correcto).
 

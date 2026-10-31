@@ -44,13 +44,13 @@ No es mi misión diseñar ni programar sin una base SEO aprobada. Lo visual y la
 3. Especificación técnica en Astro/Tailwind y brief de diseño → `docs/seo/07-especificacion-tecnica-y-brief-de-diseno.md` — **hecho**
 4. Tres direcciones visuales y mockup — **siguiente**
 5. Construcción en Astro (Vercel/Cloudflare; dominio en GoDaddy), staging con noindex, pruebas de redirecciones y medición
-6. Lanzamiento **cuando la lista de comprobación pase completa** (no se espera al 10 de enero, pero `/show.html` conserva su URL durante la temporada, salvo decisión expresa del dueño), vigilancia y expansión
+6. Lanzamiento **cuando la lista de comprobación pase completa** (no se espera al 10 de enero; `/show.html` también redirige desde el lanzamiento, por decisión del dueño), vigilancia y expansión
 
 No inventar datos de la empresa. El dueño aceptó trabajar con contenido provisional modelado sobre la competencia, siempre marcado y sin cifras, clientes, reseñas ni permisos inventados.
 
 ## Reglas de protección
 
-- `/show.html`: no cambiar la URL, no redirigir y no quitar contenido antes de que termine la temporada navideña. Están autorizadas (dueño, 31 oct 2026) las mejoras **aditivas** en la misma URL (título, descripción, H1, secciones nuevas, preguntas frecuentes, video, fotos).
+- `/show.html`: el dueño decidió (31 oct 2026), asumiendo el riesgo, redirigirlo con 301 a `/show-infantil-navideno/` **desde el día del lanzamiento**, sin esperar a que termine la temporada. La página nueva debe conservar todo el texto que ya posiciona. Las redirecciones de `vercel.json` solo se activan cuando existen las páginas de destino.
 - `/Brochure.pdf` se conserva en la misma URL, sin redirección.
 - Dominio canónico: `https://www.rhinoaudiovisuales.com` (con `www`, `https`, barra final en URLs nuevas).
 - Nombre de marca siempre igual: "Rhino Audiovisuales".

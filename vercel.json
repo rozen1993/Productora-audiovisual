@@ -1,0 +1,11 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/index.html",      "destination": "/",                                  "statusCode": 301 },
+    { "source": "/video.html",      "destination": "/servicios/produccion-audiovisual/", "statusCode": 301 },
+    { "source": "/fotografia.html", "destination": "/servicios/fotografia/",             "statusCode": 301 },
+    { "source": "/marketing.html",  "destination": "/servicios/marketing-digital/",      "statusCode": 301 },
+    { "source": "/web.html",        "destination": "/servicios/desarrollo-web/",         "statusCode": 301 },
+    { "source": "/show.html",       "destination": "/show-infantil-navideno/",           "statusCode": 301 }
+  ]
+}
