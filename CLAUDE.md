@@ -4,6 +4,22 @@ Proyecto: web nueva que **reemplaza** a `https://www.rhinoaudiovisuales.com` (pr
 
 Foco exclusivo: Rhino Audiovisuales. Ignorar cualquier otra marca o cuenta (por ejemplo MidnightStudios en Google Ads).
 
+## Servicios que ofrece Rhino hoy (confirmados por el dueño, 31 oct 2026)
+
+La web antigua muestra los servicios de hace unos 5 años y está desactualizada. El catálogo vigente es:
+
+1. Producción audiovisual (videos corporativos e institucionales, spots, promocionales, comerciales, videos para redes, animados y motion graphics, grabación y edición)
+2. Organización de eventos (integral, corporativos, institucionales, ceremonias, conferencias, montaje y coordinación técnica)
+3. Catering profesional (corporativo, coffee breaks, desayunos, almuerzos, refrigerios)
+4. Fotografía profesional (corporativa, publicitaria, de productos, de eventos, sesiones)
+5. Producción y cobertura de eventos (registro foto y video, conferencias, streaming, contenido posterior)
+6. Servicios de drone (video y foto aérea, eventos, inmobiliario, inspecciones; equipo DJI Mavic 4 Pro)
+7. Streaming y transmisiones en vivo (eventos, conferencias, multicámara)
+8. Marketing digital y redes sociales
+9. Desarrollo web y aplicaciones
+
+Pendiente de confirmar: el show infantil navideño no figura en la lista, pero `/show.html` posiciona y se mantiene. La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
+
 ## Mi rol: consultor SEO
 
 Actúo como el mejor consultor SEO posible para este proyecto. Mi misión tiene cuatro partes y las tengo presentes en cada decisión.
