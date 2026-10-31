@@ -227,3 +227,27 @@ Supuestos del escenario central: bloqueo de rastreadores verificado y resuelto, 
 **Reparto central a 12 meses:** "productora audiovisual" y home ~40 · marca ~30 · video corporativo 10–15 · cobertura de eventos 7–15 · catering corporativo 6–15 · eventos corporativos 3–10 · fotografía 6–10 · drone ~7 · show (media anual) ~50 · búsquedas pequeñas ~30.
 
 **Total a 12 meses (todos los canales):** orgánico 150–250 + Ads 55–130 + otros 30–100 ≈ **250–450 visitas al mes**, equivalentes a **5–15 consultas al mes** con confianza baja.
+
+## 8. Proyección SEM revisada (S/ 100 al mes)
+
+**Corrección:** la estimación de la sección 3.6 (55–130 clics) suponía que se gasta todo el presupuesto. En dic 2025 – feb 2026 la campaña tenía S/ 7,77 diarios disponibles y solo gastó S/ 25–66 al mes (38–61 clics): **lo que limita es la cantidad de búsquedas, no el dinero.** Esta revisión estima por grupo según búsquedas disponibles, CTR histórico (~11 %) y CPC real de la cuenta.
+
+| Grupo | CPC supuesto | Clics al mes | Gasto probable | Base |
+|---|---|---|---|---|
+| Eventos (foto y video) | S/ 1,1–1,8 | 12–25 | S/ 15–35 | ~95 impresiones/mes de su mejor palabra en dic–feb |
+| Producción de video | S/ 0,4–1,2 | 15–30 | S/ 10–20 | ~250 impresiones/mes en dic–feb |
+| Catering corporativo (desde la web nueva) | S/ 0,6–1,5 (sin datos propios) | 8–20 | S/ 8–25 | ~300 búsquedas corporativas/mes |
+| Streaming (prueba) | S/ 0,8–1,5 (sin datos propios) | 2–8 | S/ 2–10 | casi sin búsquedas |
+| Show navideño (10 nov – 22 dic) | S/ 0,5–1,0 (sin datos propios) | 10–60 | S/ 10–50 | ~900 búsquedas de las variantes elegidas en diciembre |
+
+| Mes | Clics | Gasto probable | Consultas reales* |
+|---|---|---|---|
+| Noviembre (desde el día 10) | 33–77 | S/ 40–80 | 1–4 |
+| Diciembre (hasta el 22) | 40–95 | S/ 50–100 | 1–5 |
+| Enero en adelante | 42–83 | S/ 50–90 | 1–4 |
+| **Central mensual** | **~60** | **~S/ 70** | **~2–3** |
+
+\*Consultas = 2–6 % de los clics (supuesto: hoy la cuenta no mide contactos). Costo por consulta central ≈ S/ 20–50.
+
+**Condiciones:** resultado cero mientras la campaña siga "No apta"; el grupo de catering requiere su página; las cifras se revisan con 30 días de datos reales.
+**Si sobra presupuesto:** añadir palabras de los mismos servicios (video institucional, filmación de eventos, transmisión en vivo de eventos, coffee break corporativo) antes que ampliar la zona o usar coincidencia amplia.
