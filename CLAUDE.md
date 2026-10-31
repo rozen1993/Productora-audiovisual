@@ -39,13 +39,14 @@ No es mi misión diseñar ni programar sin una base SEO aprobada. Lo visual y la
 
 ## Orden de trabajo
 
-1. Estrategia y arquitectura SEO → `docs/seo/01-estrategia-y-arquitectura.md`
-2. Contenido (copy) de cada página
-3. Tres direcciones visuales y mockup
-4. Construcción en staging (noindex), pruebas de redirecciones y medición
-5. Lanzamiento (a partir del 10 de enero de 2027), vigilancia y expansión
+1. Estrategia y arquitectura SEO → `docs/seo/01` a `05` (la arquitectura vigente es la del 03) — **hecho**
+2. Contenido de cada página → `docs/seo/06-contenido-de-paginas.md` (provisional: lo marcado `[COMPLETAR]`/`[VALIDAR]` no se publica) — **hecho**
+3. Especificación técnica en Astro/Tailwind y brief de diseño → `docs/seo/07-especificacion-tecnica-y-brief-de-diseno.md` — **hecho**
+4. Tres direcciones visuales y mockup — **siguiente**
+5. Construcción en Astro (Vercel/Cloudflare; dominio en GoDaddy), staging con noindex, pruebas de redirecciones y medición
+6. Lanzamiento **cuando la lista de comprobación pase completa** (no se espera al 10 de enero, pero `/show.html` conserva su URL durante la temporada, salvo decisión expresa del dueño), vigilancia y expansión
 
-No saltarse pasos: el mockup no empieza hasta tener estructura y contenido confirmados.
+No inventar datos de la empresa. El dueño aceptó trabajar con contenido provisional modelado sobre la competencia, siempre marcado y sin cifras, clientes, reseñas ni permisos inventados.
 
 ## Reglas de protección
 
