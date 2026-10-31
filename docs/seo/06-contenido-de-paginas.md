@@ -44,7 +44,7 @@ Orden de bloques (el diseño visual los respetará):
 - **Organización de eventos:** planificación y coordinación, de principio a fin.
 - **Catering corporativo:** coffee breaks, desayunos y almuerzos para tus reuniones y eventos.
 - **Fotografía y drone:** imagen profesional, también desde el aire.
-- Línea secundaria: *También ayudamos con marketing digital y desarrollo web.*
+- Línea secundaria: *También: alquiler de pantallas LED y sonido, activaciones BTL, maestro de ceremonias, fotos corporativas, marketing digital y desarrollo web.*
 
 **Por qué elegir Rhino**
 - **Un solo equipo para todo el evento:** producción, imagen, transmisión y atención, sin coordinar a cinco proveedores.
@@ -82,8 +82,9 @@ Orden de bloques (el diseño visual los respetará):
 - **Introducción:** Desde un video corporativo hasta un evento completo con transmisión, fotografía y catering. Elige un servicio o cuéntanos tu proyecto y armamos la propuesta.
 - **Cuatro grupos con enlaces:**
   - **Producción audiovisual:** producción audiovisual, video corporativo, spots y videos publicitarios, animación y motion graphics.
-  - **Eventos:** organización, cobertura, streaming y podcast, catering.
-  - **Imagen:** fotografía, drone.
+  - **Eventos:** organización, cobertura, streaming y podcast, catering, pantallas LED, sonido y proyectores, activaciones BTL, maestro de ceremonias.
+  - **Fotografía y drone:** fotografía publicitaria, fotos corporativas, drone, inmobiliaria.
+  - **Temporada:** fiesta de fin de año para empresas, show infantil navideño.
   - **Digital:** marketing digital, desarrollo web.
 
 ---
@@ -266,10 +267,10 @@ Orden de bloques (el diseño visual los respetará):
 
 ## 12. Fotografía — `/servicios/fotografia/`
 
-- **Título:** Fotografía Corporativa y Publicitaria en Lima | Rhino
-- **Descripción:** Fotografía corporativa, publicitaria, de productos y de eventos en Lima. Sesiones profesionales para tu marca y tu equipo. Cotiza tu sesión.
-- **H1:** Fotografía profesional para empresas
-- **Qué incluye:** corporativa e institucional · publicitaria · de productos · de eventos · sesiones fotográficas profesionales.
+- **Título:** Fotografía Publicitaria y de Productos en Lima | Rhino
+- **Descripción:** Fotografía publicitaria, de productos y de eventos en Lima para marcas y empresas. Sesiones profesionales en estudio o locación. Cotiza.
+- **H1:** Fotografía profesional para marcas
+- **Qué incluye:** publicitaria · de productos · de eventos · sesiones fotográficas profesionales. Para retratos del equipo, enlace a **fotos corporativas**.
 - **Preguntas frecuentes:** ¿Cuánto cuesta una sesión? `[COMPLETAR]` · ¿Cuántas fotos entregan? `[COMPLETAR]` · ¿Trabajan en estudio o en mi local? `[COMPLETAR]`
 
 ---
@@ -332,6 +333,77 @@ Orden de bloques (el diseño visual los respetará):
 - **Política de privacidad — `/politica-de-privacidad/`:** obligatoria porque el formulario recoge datos personales. La redacta tu asesor legal `[COMPLETAR]`.
 
 ---
+
+---
+
+## 18. Fotos corporativas — `/servicios/fotos-corporativas/` (oportunidad principal)
+
+- **Título:** Fotos Corporativas en Lima para Equipos y LinkedIn | Rhino
+- **Descripción:** Fotos corporativas en Lima para tu equipo: retratos para LinkedIn, web e informes, en tu oficina o en set. Sesiones para empresas. Cotiza.
+- **H1:** Fotos corporativas para tu equipo en Lima
+- **Introducción:** Retratos profesionales y coherentes para todo tu equipo, listos para LinkedIn, la web de la empresa, presentaciones e informes. Vamos a tu oficina o trabajamos en set.
+- **Qué incluye:** retratos individuales con fondo uniforme · fotos de equipo y de áreas · fotos del espacio de trabajo · cobertura de eventos internos · retoque y entrega en formatos para web y LinkedIn.
+- **Cómo funciona:** agenda por turnos para no detener a tu equipo `[VALIDAR: minutos por persona]` · set portátil en tu oficina `[VALIDAR]` · selección y retoque · entrega en `[COMPLETAR: plazo]`.
+- **Precio:** "Desde S/ `[COMPLETAR]` por persona; tarifas por volumen."
+- **Preguntas frecuentes:** ¿Cuánto cuestan las fotos corporativas por persona? · ¿Pueden venir a nuestra oficina? · ¿Qué ropa conviene llevar? · ¿En cuánto tiempo entregan? · ¿Sirven para LinkedIn?
+- **Relacionados:** fotografía publicitaria, cobertura de eventos, marketing digital.
+- **Schema:** Service, FAQPage, BreadcrumbList.
+
+## 19. Fiesta de fin de año para empresas — `/fiesta-de-fin-de-ano-para-empresas/` (estacional)
+
+- **Título:** Fiesta de Fin de Año para Empresas en Lima | Rhino
+- **Descripción:** Organizamos la fiesta de fin de año de tu empresa en Lima: evento, catering, show infantil navideño, sonido, pantallas y cobertura en foto y video.
+- **H1:** Fiesta de fin de año para empresas en Lima
+- **Introducción:** Cierra el año con tu equipo sin coordinar a cinco proveedores. Nos encargamos de la organización, la comida, el show, la técnica y el recuerdo en foto y video.
+- **Formatos `[COMPLETAR: precios desde]`:** almuerzo o cena de fin de año · fiesta familiar con show infantil navideño · evento completo con escenario, pantallas y maestro de ceremonias.
+- **Qué incluye:** organización y montaje · catering · show infantil navideño · sonido y pantallas LED · maestro de ceremonias · cobertura en foto y video · video resumen.
+- **Sección "Video de saludo navideño corporativo":** video corto con mensaje de la gerencia o del equipo para clientes y colaboradores; entrega `[COMPLETAR]`.
+- **Preguntas frecuentes:** ¿Con cuánta anticipación reservar? · ¿Pueden hacerlo en nuestras instalaciones? · ¿Incluye show para los hijos de los colaboradores? · ¿Cuánto cuesta por persona?
+- **Relacionados:** show infantil navideño, catering corporativo, organización de eventos, cobertura de eventos.
+- **Nota:** URL fija sin año; se actualiza el contenido cada temporada (octubre–diciembre).
+
+## 20. Alquiler de pantallas LED — `/servicios/alquiler-de-pantallas-led/`
+
+- **Título:** Alquiler de Pantallas LED para Eventos en Lima | Rhino
+- **Descripción:** Alquiler de pantallas LED para eventos en Lima: conferencias, lanzamientos, ferias y fiestas. Con instalación, operación y contenido en pantalla.
+- **H1:** Alquiler de pantallas LED para eventos
+- **Contenido:** medidas y configuraciones `[COMPLETAR]` · interior y exterior `[COMPLETAR]` · instalación, operación técnica y contenido `[VALIDAR]` · usos (conferencias, lanzamientos, ferias, conciertos, fiestas corporativas).
+- **Preguntas frecuentes:** ¿Cuánto cuesta alquilar una pantalla LED? · ¿Qué tamaño necesito? · ¿Sirve para exteriores de día? · ¿Con cuánto tiempo se instala?
+- **Relacionados:** sonido y proyectores, streaming, organización de eventos.
+
+## 21. Alquiler de sonido y proyectores — `/servicios/alquiler-de-sonido-y-proyectores/`
+
+- **Título:** Alquiler de Sonido y Proyectores para Eventos | Rhino
+- **Descripción:** Alquiler de sonido, proyectores y pantallas de proyección para eventos en Lima, con técnico. Conferencias, reuniones, ceremonias y celebraciones.
+- **H1:** Alquiler de sonido y proyectores para eventos
+- **Contenido:** equipos de sonido por aforo `[COMPLETAR]` · micrófonos · proyectores y ecran `[COMPLETAR]` · técnico durante el evento `[VALIDAR]`.
+- **Preguntas frecuentes:** ¿Qué sonido necesito según el número de invitados? · ¿Incluye técnico? · ¿Cuánto cuesta alquilar un proyector por día?
+
+## 22. Activaciones BTL — `/servicios/activaciones-btl/`
+
+- **Título:** Activaciones BTL y de Marca en Lima | Rhino Audiovisuales
+- **Descripción:** Activaciones BTL en Lima: activaciones de marca, en punto de venta y experiencias para tu público, con producción y registro en foto y video.
+- **H1:** Activaciones BTL y de marca
+- **Contenido:** activaciones de marca · activaciones en punto de venta · lanzamientos · experiencias con público · acciones con fuerza de ventas · registro en foto y video y contenido para redes.
+- **Ventaja:** producción y registro audiovisual en el mismo equipo.
+- **Casos:** `[COMPLETAR]`. Sin casos reales, esta página va en la tanda B.
+
+## 23. Maestro de ceremonias — `/servicios/maestro-de-ceremonias/`
+
+- **Título:** Maestro de Ceremonias para Eventos en Lima | Rhino
+- **Descripción:** Maestro de ceremonias para eventos corporativos, institucionales y sociales en Lima: guion, conducción y coordinación con la producción.
+- **H1:** Maestro de ceremonias para tu evento
+- **Contenido:** quién conduce (nombre, foto, video de muestra) `[COMPLETAR]` · tipos de evento · preparación del guion y del protocolo · coordinación con sonido, pantallas y producción.
+- **Preguntas frecuentes:** ¿Qué hace un maestro de ceremonias? · ¿Preparan el guion? · ¿Cuánto cuesta?
+
+## 24. Video y fotografía inmobiliaria — `/servicios/video-y-fotografia-inmobiliaria/`
+
+- **Título:** Video y Fotografía Inmobiliaria con Drone en Lima | Rhino
+- **Descripción:** Fotografía inmobiliaria, video con drone y tours virtuales 360 para proyectos y propiedades en Lima. Equipo DJI Mavic 4 Pro. Cotiza tu proyecto.
+- **H1:** Video y fotografía inmobiliaria
+- **Contenido:** fotografía de interiores y exteriores · video del proyecto · tomas aéreas con drone (DJI Mavic 4 Pro) · tours virtuales 360 · avance de obra.
+- **Preguntas frecuentes:** ¿Qué incluye una sesión inmobiliaria? · ¿Hacen tours 360? · ¿Pueden registrar el avance de obra cada mes?
+- **Relacionados:** drone, fotografía, video corporativo.
 
 ## Notas para el dueño (no van en la web)
 

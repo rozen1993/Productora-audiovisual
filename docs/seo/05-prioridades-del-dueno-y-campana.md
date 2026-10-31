@@ -171,3 +171,11 @@ Las de ese plan siguen siendo las del documento 04: **~55–130 clics al mes y 1
 **Catering:** si es propio o subcontratado, tipo de cocina y menús, capacidad (personas), permisos sanitarios y municipales, zonas de reparto, precio por persona "desde", si atiendes por separado o solo dentro de eventos.
 
 **General:** dirección y horario, WhatsApp, fotos reales (no de bancos de imágenes) y quién publica archivos en la web actual.
+
+---
+
+## 8. Ajuste con el catálogo ampliado (31 oct 2026)
+
+- **Noviembre y diciembre:** al grupo del show se añaden, solo si la página `/fiesta-de-fin-de-ano-para-empresas/` ya está publicada, las frases "fiesta de fin de año empresa", "eventos de fin de año para empresas" y "show navideño para empresas". Si no está publicada, no se anuncian: la web actual no tiene destino adecuado.
+- **Desde enero:** el grupo de prueba pasa de streaming (casi sin búsquedas) a **alquiler de pantallas LED** ("pantalla led para eventos", 390/mes). Ojo: la competencia en anuncios es alta (índice 98/100), así que el CPC máximo inicial es de S/ 1,50 y se revisa a los 15 días.
+- **Reparto propuesto desde enero (S/ 100):** eventos 35 · catering 25 · pantallas LED 25 · producción 15. Streaming queda en orgánico y venta directa hasta que haya más presupuesto.

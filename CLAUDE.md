@@ -17,6 +17,12 @@ La web antigua muestra los servicios de hace unos 5 años y está desactualizada
 7. Streaming y transmisiones en vivo (eventos, conferencias, multicámara)
 8. Marketing digital y redes sociales
 9. Desarrollo web y aplicaciones
+10. Alquiler de pantallas LED, de sonido y de proyectores para eventos (confirmado 31 oct 2026)
+11. Activaciones BTL y de marca (confirmado 31 oct 2026)
+12. Maestro de ceremonias (confirmado 31 oct 2026)
+13. Tours virtuales 360, además de fotos corporativas y video/fotografía inmobiliaria con drone (confirmado 31 oct 2026)
+
+Arquitectura ampliada (18 páginas de servicio + 2 estacionales, publicadas en dos tandas): sección 10 del documento 03.
 
 Pendiente de confirmar: el show infantil navideño no figura en la lista, pero `/show.html` posiciona y se mantiene. La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
 

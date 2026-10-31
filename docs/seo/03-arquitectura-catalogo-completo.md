@@ -79,14 +79,21 @@ Una web con **nueve servicios** corre un riesgo: que Google (y el cliente) no en
 │   ├── /servicios/spots-publicitarios/        Spots, promocionales, comerciales, videos para redes
 │   ├── /servicios/animacion-y-motion-graphics/
 │   ├── /servicios/drones/
-│   ├── /servicios/fotografia/                 (reemplaza fotografia.html)
+│   ├── /servicios/fotografia/                 Fotografía publicitaria y de productos (reemplaza fotografia.html)
+│   ├── /servicios/fotos-corporativas/         Retratos de equipo y LinkedIn (nuevo)
+│   ├── /servicios/video-y-fotografia-inmobiliaria/  Con drone y tours 360 (nuevo)
 │   ├── /servicios/organizacion-de-eventos/    Pilar de eventos: propuesta integral
 │   ├── /servicios/cobertura-de-eventos/
 │   ├── /servicios/streaming-y-podcast/
 │   ├── /servicios/catering-corporativo/
+│   ├── /servicios/alquiler-de-pantallas-led/  (nuevo)
+│   ├── /servicios/alquiler-de-sonido-y-proyectores/  (nuevo)
+│   ├── /servicios/activaciones-btl/           (nuevo)
+│   ├── /servicios/maestro-de-ceremonias/      (nuevo)
 │   ├── /servicios/marketing-digital/          (reemplaza marketing.html)
 │   └── /servicios/desarrollo-web/             (reemplaza web.html)
-├── /show-infantil-navideno/                   (reemplaza show.html, tras la temporada)
+├── /show-infantil-navideno/                   (reemplaza show.html)
+├── /fiesta-de-fin-de-ano-para-empresas/       Página estacional (nuevo)
 ├── /portafolio/                               Filtrable por servicio
 │   └── /portafolio/<caso>/                    Una página por caso (Redinter, Premium Tasting, Bloom of Colors, Héroe Adidas…)
 ├── /nosotros/                                 Equipo, equipos (DJI Mavic 4 Pro, cámaras), trayectoria
@@ -131,7 +138,14 @@ Títulos ≤60 caracteres. Las descripciones (≤155) y el texto completo vienen
 | `/servicios/spots-publicitarios/` | video publicitario | video promocional, spots publicitarios, comerciales, videos para redes | Spots y Videos Publicitarios en Lima \| Rhino | Spots y videos publicitarios para tu marca |
 | `/servicios/animacion-y-motion-graphics/` | motion graphics | videos animados, animación 2D | Animación y Motion Graphics para Empresas \| Rhino | Videos animados y motion graphics |
 | `/servicios/drones/` | servicio de drone | tomas aéreas, fotografía aérea, video con drone, drone inmobiliario | Servicio de Drone en Lima: Video y Foto Aérea \| Rhino | Servicio de drone: video y foto aérea |
-| `/servicios/fotografia/` | fotografía publicitaria | fotografía corporativa, de productos, de eventos, sesión fotográfica | Fotografía Corporativa y Publicitaria en Lima \| Rhino | Fotografía profesional para empresas |
+| `/servicios/fotografia/` | fotografía publicitaria | fotografía de productos, de eventos, sesión fotográfica | Fotografía Publicitaria y de Productos en Lima \| Rhino | Fotografía profesional para marcas |
+| `/servicios/fotos-corporativas/` | fotos corporativas (480) | fotografía corporativa, fotos para LinkedIn, fotos de equipo | Fotos Corporativas en Lima para Equipos y LinkedIn \| Rhino | Fotos corporativas para tu equipo en Lima |
+| `/servicios/video-y-fotografia-inmobiliaria/` | fotografía inmobiliaria | video inmobiliario, tour virtual 360, video para inmobiliarias | Video y Fotografía Inmobiliaria con Drone en Lima \| Rhino | Video y fotografía inmobiliaria |
+| `/servicios/alquiler-de-pantallas-led/` | pantalla led para eventos (390) | alquiler de pantallas led (170) | Alquiler de Pantallas LED para Eventos en Lima \| Rhino | Alquiler de pantallas LED para eventos |
+| `/servicios/alquiler-de-sonido-y-proyectores/` | alquiler de proyector (170) | alquiler de sonido para eventos (70), sonido para eventos | Alquiler de Sonido y Proyectores para Eventos \| Rhino | Alquiler de sonido y proyectores para eventos |
+| `/servicios/activaciones-btl/` | activaciones btl (480) | publicidad btl, marketing btl, activaciones de marca | Activaciones BTL y de Marca en Lima \| Rhino Audiovisuales | Activaciones BTL y de marca |
+| `/servicios/maestro-de-ceremonias/` | maestro de ceremonias (880) | maestro de ceremonias para eventos | Maestro de Ceremonias para Eventos en Lima \| Rhino | Maestro de ceremonias para tu evento |
+| `/fiesta-de-fin-de-ano-para-empresas/` | eventos de fin de año (1.000 en dic) | fiesta de fin de año empresa, catering navideño, saludo navideño empresa | Fiesta de Fin de Año para Empresas en Lima \| Rhino | Fiesta de fin de año para empresas en Lima |
 | `/servicios/organizacion-de-eventos/` | organización de eventos corporativos | eventos corporativos lima, empresa de organización de eventos, producción de eventos | Organización de Eventos Corporativos en Lima \| Rhino | Organización de eventos corporativos e institucionales |
 | `/servicios/cobertura-de-eventos/` | cobertura audiovisual de eventos | filmación de eventos, fotografía de eventos, grabación de conferencias | Cobertura Audiovisual de Eventos en Lima \| Rhino | Cobertura audiovisual de eventos |
 | `/servicios/streaming/` | streaming de eventos | transmisión en vivo de conferencias, producción multicámara | Streaming y Transmisión en Vivo de Eventos \| Rhino | Streaming y transmisión en vivo para eventos |
@@ -191,3 +205,27 @@ Títulos ≤60 caracteres. Las descripciones (≤155) y el texto completo vienen
 6. **Animación y motion graphics:** ¿lo haces tú o con terceros? ¿Tienes muestras?
 7. **Marketing y web:** ¿los vendes a clientes nuevos o sobre todo a los que ya tienes por audiovisual?
 8. **Datos para SEO local:** dirección, equipo, clientes autorizados, reseñas.
+
+
+---
+
+## 10. Ampliación del catálogo (dueño, 31 oct 2026)
+
+El dueño confirma que también ofrece: **alquiler de pantallas LED, de sonido y de proyectores; activaciones BTL; maestro de ceremonias; tours virtuales 360.** Con las oportunidades del documento 09, la arquitectura suma 7 páginas (ver árbol y tabla). Total: 18 páginas de servicio + 2 estacionales.
+
+**Familias del hub `/servicios/` y del menú (megamenú por familia):**
+- **Producción audiovisual:** producción audiovisual, video corporativo, spots, animación.
+- **Eventos:** organización, cobertura, streaming y podcast, catering, pantallas LED, sonido y proyectores, activaciones BTL, maestro de ceremonias.
+- **Fotografía y drone:** fotografía publicitaria, fotos corporativas, drone, inmobiliaria.
+- **Digital:** marketing digital, desarrollo web.
+- **Temporada:** fiesta de fin de año para empresas, show infantil navideño.
+
+**Para evitar canibalización:** "fotografía corporativa" pasa de `/servicios/fotografia/` a `/servicios/fotos-corporativas/`; la página de fotografía se centra en publicidad y productos.
+
+**Tandas de publicación (calidad antes que cantidad):**
+- **Tanda A (lanzamiento):** home, hub, contacto, nosotros, portafolio y casos; destinos obligatorios de las redirecciones (producción audiovisual, fotografía, marketing digital, desarrollo web, show); prioridades y oportunidades (cobertura de eventos, streaming y podcast, catering corporativo, organización de eventos, video corporativo, fotos corporativas, alquiler de pantallas LED, fiesta de fin de año).
+- **Tanda B (cuando su contenido esté completo y sea real):** spots, animación, drone, inmobiliaria, sonido y proyectores, activaciones BTL, maestro de ceremonias.
+
+**Posicionamiento:** la home conserva "Productora audiovisual en Lima" (lo que ya posiciona). El subtítulo pasa a presentar a Rhino como **productora audiovisual y de eventos**.
+
+**Ficha de Google:** categoría principal "Productora de video"; secundarias solo de servicios reales: organizador de eventos, servicio de alquiler de equipos audiovisuales, servicio de catering, fotógrafo comercial.
