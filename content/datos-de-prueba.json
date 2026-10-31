@@ -1,0 +1,119 @@
+{
+  "_aviso": "DATOS DE PRUEBA. Valores verosímiles para mockup y staging, basados en referencias del mercado de Lima (oct 2026). NO son datos reales de Rhino Audiovisuales. La compilación de producción falla si alguna página usa este archivo. Reemplazar cada valor por el real en content/datos-reales.json antes del lanzamiento.",
+  "esPrueba": true,
+  "empresa": {
+    "trayectoria": "Más de 5 años produciendo en Lima",
+    "proyectosRealizados": "+150 proyectos",
+    "zonaDeServicio": "Lima Metropolitana y Callao; provincias a consultar",
+    "distrito": "Miraflores, Lima",
+    "horario": "Lunes a sábado, 8:00 a. m. – 6:00 p. m.",
+    "respuesta": "Respondemos en menos de 2 horas en horario laboral",
+    "equipo": [
+      { "nombre": "Diego Salazar", "cargo": "Director general y productor" },
+      { "nombre": "Andrea Quispe", "cargo": "Directora de fotografía" },
+      { "nombre": "Martín Rojas", "cargo": "Jefe técnico de eventos y streaming" },
+      { "nombre": "Valeria Torres", "cargo": "Coordinadora de catering y eventos" }
+    ],
+    "equipamiento": ["Cámaras Sony FX3 y A7S III", "Drone DJI Mavic 4 Pro", "Switcher multicámara para streaming", "Pantallas LED P3.9 y P4.8", "Sonido para hasta 300 personas"]
+  },
+  "testimonios": [
+    { "texto": "Cubrieron nuestra convención anual con fotos, video resumen y transmisión en vivo. Al día siguiente ya teníamos clips para LinkedIn.", "autor": "Lucía R.", "cargo": "Jefa de Marketing", "empresa": "Empresa de seguros" },
+    { "texto": "Nos resolvieron la fiesta de fin de año completa: catering, show para los niños y pantallas. Un solo contacto para todo.", "autor": "Jorge M.", "cargo": "Gerente de Recursos Humanos", "empresa": "Empresa de retail" },
+    { "texto": "Las fotos corporativas de todo el equipo se hicieron en una mañana en nuestra oficina, sin detener el trabajo.", "autor": "Patricia V.", "cargo": "Coordinadora de Comunicaciones", "empresa": "Estudio de abogados" }
+  ],
+  "servicios": {
+    "cobertura-de-eventos": {
+      "precioDesde": "Desde S/ 1,200 (hasta 3 horas, fotógrafo y videógrafo)",
+      "plazos": { "fotos": "72 horas", "videoResumen": "5 días hábiles", "clipsRedes": "48 horas" },
+      "fueraDeLima": "Sí, con viáticos aparte"
+    },
+    "streaming-y-podcast": {
+      "precioDesde": "Desde S/ 1,800 por transmisión (hasta 4 horas, 2 cámaras)",
+      "plataformas": ["YouTube", "Facebook Live", "LinkedIn Live", "Zoom", "Microsoft Teams", "Vimeo"],
+      "camaras": "De 2 a 4 cámaras, con conexión de respaldo 4G/5G",
+      "podcast": "Set portátil en tu oficina; desde S/ 900 por episodio con 2 cámaras, edición y 3 clips"
+    },
+    "catering-corporativo": {
+      "precios": { "coffeeBreak": "Desde S/ 18 por persona (mínimo 20)", "desayuno": "Desde S/ 25 por persona", "almuerzo": "Desde S/ 38 por persona" },
+      "anticipacion": "72 horas; eventos de más de 100 personas, 7 días",
+      "capacidad": "De 20 a 300 personas",
+      "dietas": "Opciones vegetarianas y sin gluten",
+      "incluye": "Personal de servicio, menaje y montaje"
+    },
+    "organizacion-de-eventos": {
+      "precioDesde": "Desde S/ 4,500 (evento de hasta 50 personas)",
+      "anticipacion": "3 a 4 semanas recomendadas",
+      "porPartes": "Sí, se puede contratar solo una parte"
+    },
+    "video-corporativo": {
+      "precioDesde": "Desde S/ 2,500 (video institucional de 1–2 minutos, 1 día de rodaje)",
+      "duracionRecomendada": "Entre 60 y 120 segundos",
+      "plazo": "2 a 3 semanas"
+    },
+    "spots-publicitarios": { "precioDesde": "Desde S/ 3,000", "formatos": "Horizontal 16:9, vertical 9:16 y cuadrado 1:1" },
+    "animacion-y-motion-graphics": { "precioDesde": "Desde S/ 1,500 por 60 segundos" },
+    "drones": { "precioDesde": "Desde S/ 650 (media jornada)" },
+    "fotografia": { "sesion": "Desde S/ 800", "productos": "Desde S/ 35 por producto en fondo blanco (mínimo 10)", "plazo": "5 días hábiles" },
+    "fotos-corporativas": {
+      "precioDesde": "Desde S/ 60 por persona (mínimo 8)",
+      "minutosPorPersona": "10 minutos",
+      "modalidad": "Set portátil en tu oficina o sesión en set",
+      "entrega": "4 días hábiles, 2 fotos retocadas por persona"
+    },
+    "alquiler-de-pantallas-led": {
+      "precioDesde": "Desde S/ 1,500 por día (pantalla 3 × 2 m interior)",
+      "modulos": "P3.9 interior · P4.8 exterior",
+      "configuraciones": ["3 × 2 m", "4 × 2,5 m", "5 × 3 m"],
+      "incluye": "Instalación, procesador y operador durante el evento",
+      "montaje": "3 a 4 horas antes del evento"
+    },
+    "alquiler-de-sonido-y-proyectores": {
+      "sonido": "Desde S/ 450 por día (hasta 50 personas)",
+      "proyector": "Desde S/ 350 por día (5,000 lúmenes + ecran 2 × 1,5 m)",
+      "incluye": "Técnico durante el evento y micrófonos inalámbricos"
+    },
+    "activaciones-btl": {
+      "casos": [
+        { "titulo": "Activación en punto de venta para marca de consumo masivo", "detalle": "Stand con degustación, anfitrionas y registro en foto y video para redes" },
+        { "titulo": "Lanzamiento de producto en centro comercial", "detalle": "Escenario, pantalla LED, maestro de ceremonias y transmisión en vivo" }
+      ]
+    },
+    "maestro-de-ceremonias": {
+      "conductor": { "nombre": "Carla Montoya", "perfil": "Conductora de eventos corporativos e institucionales" },
+      "precioDesde": "Desde S/ 700 por evento",
+      "incluye": "Reunión previa, guion y protocolo"
+    },
+    "video-y-fotografia-inmobiliaria": {
+      "precioDesde": "Desde S/ 750 por propiedad (fotos, video y tomas con drone)",
+      "tour360": "Desde S/ 450",
+      "avanceDeObra": "Desde S/ 600 al mes"
+    },
+    "marketing-digital": { "precioDesde": "Desde S/ 1,200 al mes (2 redes, 12 publicaciones)" },
+    "desarrollo-web": { "landing": "Desde S/ 1,500", "webCorporativa": "Desde S/ 3,500" }
+  },
+  "temporada": {
+    "show-infantil-navideno": {
+      "precioDesde": "Desde S/ 1,200",
+      "duracion": "60 minutos",
+      "edades": "3 a 10 años",
+      "ninos": "Hasta 80 niños",
+      "incluye": "Papá Noel y 3 personajes, juegos, sonido e iluminación"
+    },
+    "fiesta-de-fin-de-ano-para-empresas": {
+      "formatos": [
+        { "nombre": "Almuerzo o cena de fin de año", "precio": "Desde S/ 85 por persona (mínimo 30)" },
+        { "nombre": "Fiesta familiar con show infantil navideño", "precio": "Desde S/ 4,900 (hasta 60 personas)" },
+        { "nombre": "Evento completo con escenario, pantallas y maestro de ceremonias", "precio": "Desde S/ 12,000" }
+      ],
+      "saludoNavideno": "Video de saludo navideño corporativo desde S/ 900, entrega en 5 días hábiles",
+      "reservas": "Reservas hasta el 15 de diciembre"
+    }
+  },
+  "casos": {
+    "redinter-25-anos": { "resultado": "Video estrenado en la celebración de aniversario y difundido en canales internos" },
+    "premium-tasting-lima": { "resultado": "Cobertura completa del evento con video resumen y fotos para prensa" },
+    "bloom-of-colors": { "resultado": "Aftermovie y clips para redes publicados durante la semana del evento" },
+    "heroe-adidas": { "resultado": "Campaña interna difundida a colaboradores de todo el país" }
+  },
+  "pendienteSiempreReal": "Permisos sanitarios, registro de operador de drone, RUC, razón social y dirección exacta no se simulan: quedan como [COMPLETAR] hasta tener el dato real."
+}

@@ -40,6 +40,7 @@ public/
 `astro.config.mjs`: `site: 'https://www.rhinoaudiovisuales.com'`, `trailingSlash: 'always'`, `build.format: 'directory'`, integraciones de Tailwind y sitemap.
 
 ### A.3 Reglas de SEO que el sitio impone solo
+- **Datos de prueba:** mockups y staging leen `content/datos-de-prueba.json`. La compilación de producción falla si alguna página toma un valor de ese archivo (comprobación de `esPrueba`).
 - **Prueba al construir:** el build falla si un título pasa de 60 caracteres, una descripción de 155, una página no tiene exactamente un H1, o hay `[COMPLETAR]` / `[VALIDAR]` en el texto que se va a publicar.
 - Cada página: `<title>`, descripción, `canonical` absoluta, Open Graph con imagen absoluta (`og:type=website`), `lang`, breadcrumbs.
 - `sitemap.xml` automático (solo URLs indexables) y `robots.txt` que lo declara.

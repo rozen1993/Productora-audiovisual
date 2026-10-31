@@ -52,7 +52,7 @@ No es mi misión diseñar ni programar sin una base SEO aprobada. Lo visual y la
 5. Construcción en Astro (Vercel/Cloudflare; dominio en GoDaddy), staging con noindex, pruebas de redirecciones y medición
 6. Lanzamiento **cuando la lista de comprobación pase completa** (no se espera al 10 de enero; `/show.html` también redirige desde el lanzamiento, por decisión del dueño), vigilancia y expansión
 
-No inventar datos de la empresa. El dueño aceptó trabajar con contenido provisional modelado sobre la competencia, siempre marcado y sin cifras, clientes, reseñas ni permisos inventados.
+No inventar datos de la empresa para publicar. El dueño pidió (31 oct 2026) **datos de prueba verosímiles** para mockups y staging: viven solo en `content/datos-de-prueba.json` (`esPrueba: true`) y la compilación de producción debe fallar si alguna página los usa. Los datos reales irán en `content/datos-reales.json`. Permisos, registros, RUC, razón social y dirección exacta nunca se simulan.
 
 ## Reglas de protección
 
