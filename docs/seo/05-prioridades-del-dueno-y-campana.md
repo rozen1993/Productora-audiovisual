@@ -134,6 +134,8 @@ Las negativas generales y los borradores de anuncios de los grupos A, D y E est�
 
 ### Reparto de S/ 100 al mes
 
+> Desde enero vale el reparto de la sección 8 (pantallas LED en lugar de streaming).
+
 | Mes | Show (D) | Eventos (A) | Producción (E) | Catering (C) | Streaming (B) |
 |---|---|---|---|---|---|
 | Nov (desde el 10) | 50 | 35 | 15 | — | — |
@@ -144,7 +146,7 @@ Las negativas generales y los borradores de anuncios de los grupos A, D y E est�
 Con tan poco dinero, **no se pueden probar cinco cosas a la vez**: S/ 10 en streaming son unos 8–10 clics. Es solo una señal de si existe demanda, no una conclusión.
 
 ### Expectativas
-Las de ese plan siguen siendo las del documento 04: **~55–130 clics al mes y 1–8 contactos reales**, con la incertidumbre de que hoy no se miden contactos. Y con la campaña parada desde marzo, **antes de resolver el bloqueo el resultado es cero**.
+Ver el documento 04 §8 (vigente): **~40–85 clics al mes (central ~60) y 1–5 contactos reales**, con la incertidumbre de que hoy no se miden contactos. Y con la campaña parada desde marzo, **antes de resolver el bloqueo el resultado es cero**.
 
 ---
 

@@ -1,5 +1,7 @@
 # Rhino Audiovisuales — nueva web
 
+**Empieza por `docs/seo/00-traspaso.md`**: es la fuente de verdad del estado del proyecto (qué se tenía, qué se buscaba, qué se hizo, qué se espera). Actualízalo al terminar cada trabajo.
+
 Proyecto: web nueva que **reemplaza** a `https://www.rhinoaudiovisuales.com` (productora audiovisual en Lima, Perú). Idioma de trabajo y de la web: español (es-PE).
 
 Foco exclusivo: Rhino Audiovisuales. Ignorar cualquier otra marca o cuenta (por ejemplo MidnightStudios en Google Ads).
@@ -24,7 +26,7 @@ La web antigua muestra los servicios de hace unos 5 años y está desactualizada
 
 Arquitectura ampliada (18 páginas de servicio + 2 estacionales, publicadas en dos tandas): sección 10 del documento 03.
 
-Pendiente de confirmar: el show infantil navideño no figura en la lista, pero `/show.html` posiciona y se mantiene. La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
+El show infantil navideño también es un servicio vigente (el dueño quiere el primer puesto en diciembre). La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
 
 ## Prioridades del dueño (31 oct 2026)
 
@@ -48,7 +50,7 @@ No es mi misión diseñar ni programar sin una base SEO aprobada. Lo visual y la
 1. Estrategia y arquitectura SEO → `docs/seo/01` a `05` (la arquitectura vigente es la del 03) — **hecho**
 2. Contenido de cada página → `docs/seo/06-contenido-de-paginas.md` (provisional: lo marcado `[COMPLETAR]`/`[VALIDAR]` no se publica) — **hecho**
 3. Especificación técnica en Astro/Tailwind y brief de diseño → `docs/seo/07-especificacion-tecnica-y-brief-de-diseno.md` — **hecho**
-4. Tres direcciones visuales y mockup — **siguiente**
+4. Tres direcciones visuales — **hechas** (`design/direcciones/`, recomendada la B). Mockup de la elegida — **siguiente, pendiente de que el dueño elija**
 5. Construcción en Astro (Vercel/Cloudflare; dominio en GoDaddy), staging con noindex, pruebas de redirecciones y medición
 6. Lanzamiento **cuando la lista de comprobación pase completa** (no se espera al 10 de enero; `/show.html` también redirige desde el lanzamiento, por decisión del dueño), vigilancia y expansión
 
@@ -75,7 +77,7 @@ No inventar datos de la empresa para publicar. El dueño pidió (31 oct 2026) **
 - Google Search Console (`rhinoaudiovisuales.com`) y Google Ads (campaña "Rhino Audiovisuales"), vía el conector Adzviser. Antes de usar un dato, indicar período y fuente.
 - DataForSEO para volúmenes, SERP, competencia, enlaces y rastreo de la web. Ahrefs está conectado pero devuelve "plan insuficiente".
 - **Hallazgo crítico pendiente (auditoría, doc 08):** Search Console no tiene impresiones entre dic 2025 y jun 2026. Hipótesis: un desafío anti-bots del hosting ("One moment, please...") bloquea a Googlebot y AdsBot. Verificarlo antes de dar por buenas las posiciones actuales.
-- **Revisión crítica (doc 09):** Rhino no tiene ficha de Google Maps (0 resultados) ni menciones en respuestas de IA; ChatGPT recomienda a competidores apoyándose en fichas con reseñas y en el directorio InEventos. Oportunidades pendientes de confirmar con el dueño: fotos corporativas (480/mes), fiesta de fin de año para empresas, alquiler de pantallas LED y sonido, activaciones BTL, inmobiliario con drone, maestro de ceremonias.
+- **Revisión crítica (doc 09):** Rhino no tiene ficha de Google Maps (0 resultados) ni menciones en respuestas de IA; ChatGPT recomienda a competidores apoyándose en fichas con reseñas y en el directorio InEventos. Los servicios de esas oportunidades ya están confirmados por el dueño. Estimaciones corregidas en el doc 10: pantallas LED y fotos corporativas son las más sólidas; maestro de ceremonias y fin de año tienen intención mayormente informativa.
 - Los volúmenes de Google Ads para Perú subestiman las búsquedas con "lima" (Search Console muestra más). Contrastar siempre con Search Console.
 - Las herramientas de terceros pueden fallar o leer mal una página. Verificar antes de dar un hallazgo por cierto, y también antes de descartarlo (el aviso "One moment, please..." se descartó demasiado pronto).
 

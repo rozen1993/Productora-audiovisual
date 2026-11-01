@@ -3,6 +3,8 @@
 Documento 1 de 3. Fecha de los datos: 31 de octubre de 2026.
 Siguiente: (2) copy de cada página y (3) tres direcciones visuales + mockup.
 
+> **Documento histórico (1 nov 2026):** varias recomendaciones de este documento fueron sustituidas (lanzar a partir del 10 de enero, no tocar `/show.html`, árbol de URLs, enlaces). El estado vigente está en `00-traspaso.md`.
+>
 > **Actualización (31 oct 2026):** la arquitectura, el mapa de palabras clave y las fichas de este documento (secciones 6, 7 y 8) se hicieron con los servicios de la web antigua. El dueño confirmó un catálogo de nueve servicios; la versión vigente está en `03-arquitectura-catalogo-completo.md`.
 
 **Fuentes:** Google Search Console (nov 2025 – oct 2026), Google Ads (solo campaña "Rhino Audiovisuales"), volúmenes de Google Ads para Perú, SERP en vivo de Google Perú, rastreo de la web actual y perfil de enlaces (DataForSEO).

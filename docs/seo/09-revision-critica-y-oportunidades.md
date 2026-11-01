@@ -3,6 +3,8 @@
 Documento 9. Fecha de los datos: 31 de octubre de 2026. Fuente: DataForSEO (volúmenes de Google Ads Perú, SERP en vivo de Google Perú, fichas de Google Maps, respuesta de ChatGPT con búsqueda web, menciones en respuestas de IA, palabras clave de competidores).
 Enfoque: un consultor externo, exigente con los resultados, revisa los documentos 01–08 y busca lo que nadie ha mirado.
 
+> **Corregido por la tercera auditoría (doc 10, 1 nov 2026):** "fotos corporativas" tiene intención mixta y páginas de servicio peruanas en el top 3 (≈15–30 visitas/mes, no ~48); "eventos de fin de año" es informativa (la palabra principal pasa a ser "fiesta de fin de año para empresas"); "maestro de ceremonias" es 81 % informativa; las pantallas LED se confirman como la oportunidad comercial más sólida. Impacto total de las oportunidades: +50–100 visitas/mes (no +50–120).
+
 ---
 
 ## 1. Veredicto

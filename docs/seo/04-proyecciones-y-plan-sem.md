@@ -131,6 +131,8 @@ Con S/ 100 hay que **concentrar**. Una sola campaña de búsqueda, con tres grup
 **Palabras negativas desde el primer día:** empleo, empleos, trabajo, trabajos, vacante, bolsa de trabajo, curso, cursos, carrera, universidad, instituto, diplomado, gratis, tutorial, "cómo hacer", ejemplo, ejemplos, plantilla, descargar, programa, software, app, pdf, wikipedia, qué es, significado, sueldo, salario, "para colegios" (si no lo ofreces), inflable, baby shower, cumpleaños (si el show de cumpleaños no es un servicio).
 
 ### 3.3 Reparto mensual del presupuesto
+
+> **Sustituido** por el documento 05 (§5 para nov–dic y §8 desde enero).
 | Mes | Show | Eventos | Producción | Prueba* | Total |
 |---|---|---|---|---|---|
 | Nov (desde el 10) | S/ 45 | S/ 30 | S/ 25 | — | S/ 100 |
@@ -163,6 +165,8 @@ No incluir promesas que no puedas cumplir (plazos, descuentos, cifras de cliente
 - **A los 60 días:** decidir si continuar, según el costo por contacto real y tu ticket medio.
 
 ### 3.6 Qué tráfico y contactos puede dar
+
+> **Sustituido** por la sección 8 de este documento (estimación por inventario de búsquedas).
 Supuestos: CPC real de tu cuenta (S/ 0,5–1,8 según grupo), sin gasto en términos que no convierten.
 
 | Concepto | Bajo | Central | Alto |
@@ -182,7 +186,7 @@ En temporada del show (nov–dic), el grupo C puede aportar 50–110 clics, pero
 | Canal | Rango |
 |---|---|
 | SEO orgánico | 150–400 |
-| Google Ads (S/ 100) | 55–130 |
+| Google Ads (S/ 100) | ~40–85 (ver §8) |
 | Ficha de Google, directos, redes y otros | 30–100 (hipótesis, sin datos propios) |
 | **Total estimado** | **~250–600 visitas al mes** |
 
@@ -226,7 +230,7 @@ Supuestos del escenario central: bloqueo de rastreadores verificado y resuelto, 
 
 **Reparto central a 12 meses:** "productora audiovisual" y home ~40 · marca ~30 · video corporativo 10–15 · cobertura de eventos 7–15 · catering corporativo 6–15 · eventos corporativos 3–10 · fotografía 6–10 · drone ~7 · show (media anual) ~50 · búsquedas pequeñas ~30.
 
-**Total a 12 meses (todos los canales):** orgánico 150–250 + Ads 55–130 + otros 30–100 ≈ **250–450 visitas al mes**, equivalentes a **5–15 consultas al mes** con confianza baja.
+**Total a 12 meses (todos los canales):** orgánico 150–250 + Ads ~40–85 (§8) + otros 30–100 ≈ **220–435 visitas al mes**. **Actualizado en el doc 10 y en `00-traspaso.md`:** con las oportunidades nuevas, orgánico central 200–330 y total ~270–500 visitas al mes (6–18 consultas).
 
 ## 8. Proyección SEM revisada (S/ 100 al mes)
 
