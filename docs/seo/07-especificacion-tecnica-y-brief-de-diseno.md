@@ -12,7 +12,7 @@ Documento 7. Fecha: 31 de octubre de 2026. Cierra la consultoría SEO y entrega 
 | Framework | Astro (sitio estático) + Tailwind CSS |
 | Hosting | Vercel (o Cloudflare Pages). **Verifica los términos del plan gratuito**: hasta donde sé, el de Vercel es solo para uso no comercial |
 | Dominio | Sigue en GoDaddy. Solo se editan los registros A y CNAME. **No tocar servidores de nombres, MX ni TXT** (el correo `info@rhinoaudiovisuales.com` depende de ellos) |
-| Dominio canónico | `https://www.rhinoaudiovisuales.com`; sin `www` redirige con 301 |
+| Dominio canónico | **Pendiente de confirmar** (traspaso §9.2): la versión que Google tenga elegida; desde jul 2026 es la versión sin `www`. La otra redirige con 301 |
 | Idioma | `lang="es-PE"` |
 | URLs | minúsculas, guiones, sin tildes ni ñ, **barra final** en todas |
 | Contenido | Colecciones de Astro (servicios, casos, preguntas frecuentes), para que cambiar un precio o un plazo sea editar un archivo |
@@ -37,7 +37,7 @@ public/
   Brochure.pdf            # nombre exacto, con mayúscula inicial
   show.html               # fase A: se conserva (ver A.5)
 ```
-`astro.config.mjs`: `site: 'https://www.rhinoaudiovisuales.com'`, `trailingSlash: 'always'`, `build.format: 'directory'`, integraciones de Tailwind y sitemap.
+`astro.config.mjs`: `site:` con la canónica confirmada (`'https://rhinoaudiovisuales.com'` si se confirma la versión sin `www`), `trailingSlash: 'always'`, `build.format: 'directory'`, integraciones de Tailwind y sitemap.
 
 ### A.3 Reglas de SEO que el sitio impone solo
 - **Datos de prueba:** mockups y staging leen `content/datos-de-prueba.json`. La compilación de producción falla si alguna página toma un valor de ese archivo (comprobación de `esPrueba`).
@@ -66,7 +66,7 @@ Tipografías propias (máximo 2 familias), CSS crítico en línea, sin librería
 }
 ```
 - `vercel.json` incluye además `/index.html` → `/`.
-- `www` principal; el dominio sin `www` se redirige con 301 desde la configuración de dominios de Vercel.
+- Dominio principal: la canónica confirmada (traspaso §9.2; previsiblemente sin `www`). La otra versión se redirige con 301 desde la configuración de dominios de Vercel.
 - **`/show.html`:**
   - **Opción descartada por el dueño (riesgo mínimo):** se publica igual en la misma URL (archivo en `public/` o ruta equivalente; **verifico al construir cuál funciona con la configuración de directorios**) y se redirige a `/show-infantil-navideno/` en enero.
   - **Decisión del dueño (31 oct 2026): `/show.html` redirige con 301 desde el primer día del lanzamiento.** Las posiciones del show pueden moverse durante semanas, en plena temporada. Para reducirlo: la página nueva conserva todo el texto que ya posiciona, se solicita su indexación el mismo día y los anuncios del show apuntan a la URL nueva.

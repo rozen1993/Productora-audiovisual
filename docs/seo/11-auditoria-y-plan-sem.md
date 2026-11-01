@@ -4,7 +4,7 @@ Documento 11. Fecha: 1 de noviembre de 2026.
 **Sustituye** la estructura, las palabras clave y los presupuestos de los documentos 04 (§3) y 05 (§5 y §8). Las proyecciones de tráfico siguen en el documento 04 §8.
 
 **Datos usados:**
-- Google Ads, campaña "Rhino Audiovisuales", dic 2025 – feb 2026: rendimiento por dispositivo, por hora y por palabra clave (Adzviser).
+- Google Ads, campaña "Rhino Audiovisuales", dic 2025 – feb 2026: rendimiento por dispositivo, por hora, por palabra clave y por término de búsqueda (Adzviser; los términos se revisaron el 1 nov filtrando solo la campaña de Rhino).
 - Intención de búsqueda, dificultad y variantes del documento 10 (DataForSEO).
 - La cuenta `midnightstudios` contiene también otra marca, que se ignora por indicación del dueño.
 
@@ -50,6 +50,7 @@ Documento 11. Fecha: 1 de noviembre de 2026.
 | S8 | **El doc 09 daba por hecho el formulario de contacto de Google Ads.** Google lo habilita solo a cuentas que cumplen requisitos (historial y gasto); con S/ 132 de gasto histórico, probablemente no esté disponible | Media | Corregido: "verificar si la cuenta es elegible" |
 | S9 | **Sin fecha límite para el show:** la temporada ya empezó y la campaña sigue "No apta" | Media | Corregido: corte el 15 de noviembre (§3.7) |
 | S10 | **El horario 7:00–20:00 de lunes a sábado era una suposición** | — | **Validado con datos** (§1) |
+| S11 | **Faltaban exclusiones que muestran los términos de búsqueda** (revisión del 1 nov): ~60 impresiones y 4 clics (S/ 3,88) en marcas de otras productoras; 5 clics (S/ 9,33) de "estudio fotográfico" y "sesión de fotos" sin conversión; ~35 impresiones de bodas, quinceañeros y cumpleaños; "cuanto cobrar por edicion de video" (quien vende, no quien compra). Y faltaba un término rentable: "servicio de videos corporativos" (2 clics a S/ 0,29) | Media | Corregido (§3.3 y §3.4); bodas y estudio, según lo que confirme el dueño |
 
 ---
 
@@ -75,7 +76,7 @@ Configuración común:
 | Diciembre | S/ 2,70 al día (1–22 dic) | S/ 1,30 al día (todo el mes) | ~S/ 100 |
 | Desde enero | — (pausada) | S/ 3,30 al día | ~S/ 100 |
 
-- **Si se activa más tarde:** presupuesto diario = lo que queda del mes para esa campaña ÷ los días que quedan.
+- **Si se activa otro día** (antes o después del 10 nov): presupuesto diario = lo que queda del mes para esa campaña ÷ los días que quedan. Activar antes con S/ 2,40 + 2,40 superaría los S/ 100.
 - **Dentro de C2, el reparto desde enero** (eventos 35 · catering 25 · pantallas LED 25 · producción 15) es un **objetivo**, no un límite. Se dirige con la puja máxima de cada grupo y pausando grupos, y se revisa el gasto por grupo cada lunes.
 
 ### 3.3 Grupos de anuncios y palabras clave
@@ -98,7 +99,7 @@ Configuración común:
 **C2 · S2 Producción de video**
 - Destino: home (después, `/servicios/produccion-audiovisual/`). CPC máximo S/ 1,20.
 - Exacta: [productora audiovisual], [productora audiovisual en lima], [productora audiovisual lima], [producción de videos] (3 conv. en 16 clics a S/ 0,53).
-- Frase: "productora de videos corporativos", "producción de videos corporativos", "videos institucionales para empresas".
+- Frase: "productora de videos corporativos", "producción de videos corporativos", "servicio de videos corporativos" (2 clics a S/ 0,29 en el histórico), "videos institucionales para empresas".
 - **Se quitan** [video institucional] y [video corporativo] (navegacionales). **Se pausa** [productoras audiovisuales] (S/ 17 sin conversión).
 
 **C2 · S3 Catering corporativo** (cuando exista su página)
@@ -110,14 +111,18 @@ Configuración común:
 - CPC máximo S/ 1,50 (competencia alta en anuncios).
 - Frase: "alquiler de pantallas led", "alquiler de pantalla led para eventos", "pantalla led alquiler", "alquiler pantalla led", "pantalla led para eventos".
 
-**C2 · S5 Streaming:** definido pero **pausado** (casi sin búsquedas). Se vende por contacto directo y por SEO.
+**C2 · S5 Streaming:** definido pero **pausado** (casi sin búsquedas). Se vende por contacto directo y por SEO. Si se activa, quitar "live" de la lista general: bloquearía "live streaming".
 
 ### 3.4 Palabras negativas
-**Lista compartida "Rhino – generales" (ambas campañas):** empleo, empleos, trabajo, trabajos, vacante, bolsa de trabajo, sueldo, salario, curso, cursos, clases, carrera, universidad, instituto, diplomado, tutorial, "como hacer", "cómo hacer", "que es", "qué es", significado, definición, ejemplo, ejemplos, plantilla, pdf, gratis, descargar, app, software, programa, wikipedia, production, live, stock.
+**Lista compartida "Rhino – generales" (ambas campañas):** empleo, empleos, trabajo, trabajos, vacante, bolsa de trabajo, sueldo, salario, curso, cursos, clases, carrera, universidad, instituto, diplomado, tutorial, "como hacer", "cómo hacer", "que es", "qué es", significado, definición, ejemplo, ejemplos, plantilla, pdf, gratis, descargar, app, software, programa, wikipedia, production, live, stock, agency, videography, "cuanto cobrar", "cuánto cobrar", españa, madrid.
+
+**Lista compartida "Rhino – otras productoras" (ambas campañas; concordancia de frase):** "producciones isa", palomino, "arte y video", "arte video", "gama films", "gama producciones", "titan producciones", yaolme, "solano producciones", "saes producciones", "lapa producciones", horus, "contraluz films", "maia films", "criss producciones", "apu producciones", "rea producciones", "vas producciones", "creative producciones", "filmaciones el rey", "mil enfoques", "producciones avi", "clip producciones", "ms filmaciones", "oss productions", makefilm, "foto latino". Todas aparecieron en los términos de búsqueda de la campaña de Rhino. Se amplía cada lunes.
 
 **C1 Temporada:** entradas, mall, "centro comercial", mallplaza, "real plaza", jockey, municipalidad, parque, cartelera, hoy, disfraz, disfraces, canción, canciones, letra, dibujo, dibujos, ideas, guion, texto, frases, mensaje, mensajes, cumpleaños (si no se ofrece).
 
 **C2 · S4 Pantallas LED:** comprar, venta, vendo, segunda, usada, usado, arduino, tv, televisor, reparar, reparación, mochila, fondo, fondos, publicidad, publicitaria, flexible, manchas.
+
+**C2, según lo que confirme el dueño:** si no cubre eventos sociales, boda, bodas, matrimonio, quinceañero, quinceañera, cumpleaños; si no tiene estudio abierto al público, "estudio fotográfico", "estudios fotográficos", "foto estudio", "foto studio".
 
 ### 3.5 Anuncios y recursos
 - Los borradores del documento 04 §3.4 sirven. **Prohibido usar precios de prueba en anuncios:** el recurso de precio solo con precios reales.
@@ -144,6 +149,7 @@ Configuración común:
 - **Cada lunes (15 minutos):** revisar términos de búsqueda, añadir negativas, pausar palabras con 10 clics o más y ningún contacto, y revisar el gasto por grupo dentro de C2.
 - **A los 30 días:** ajustar el CPC máximo por grupo según la posición y el coste por contacto.
 - **A los 60 días, o con 30 contactos:** decidir ajustes por dispositivo y por horario, y si conviene pujar por conversiones.
+- **Mientras tanto:** URL finales con la versión sin `www`; hoy `www` redirige (traspaso §3.4).
 - **Al lanzar la web nueva:** cambiar todas las URL finales y activar S3 y S4.
 
 ### 3.8 Proyección
@@ -162,5 +168,7 @@ Configuración común:
 | Negativas generales | Más inglés, búsquedas de eventos públicos (C1) y de compra (pantallas LED) |
 | "Ajuste por escritorio" (doc 09) | Sin ajustes por dispositivo hasta medir contactos |
 | Formulario de contacto de Ads como seguro | Solo si la cuenta es elegible |
+| Sin lista de marcas ajenas ni de quien vende | Lista "Rhino – otras productoras", "cuánto cobrar", más inglés; bodas y estudio según el dueño |
+| S2 sin "servicio de videos corporativos" | Añadida (rentable en el histórico) |
 | Horario supuesto | Horario validado con datos |
 | Sin fecha límite para el show | Corte el 15 de noviembre |

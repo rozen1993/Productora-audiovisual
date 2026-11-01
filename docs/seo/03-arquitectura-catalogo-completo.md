@@ -115,7 +115,7 @@ Una web con **nueve servicios** corre un riesgo: que Google (y el cliente) no en
 
 | Origen | Destino | Cuándo |
 |---|---|---|
-| `http://` y sin `www` | `https://www.rhinoaudiovisuales.com` | Puede hacerse ya |
+| `http://` y la versión del dominio que no sea canónica | `https://` + la canónica confirmada (traspaso §9.2; desde jul 2026 Google usa la versión sin `www`) | Al confirmar la canónica con *Inspección de URL*. **No forzar `www`** |
 | `/video.html` | `/servicios/produccion-audiovisual/` | Lanzamiento |
 | `/fotografia.html` | `/servicios/fotografia/` | Lanzamiento |
 | `/marketing.html` | `/servicios/marketing-digital/` | Lanzamiento |
@@ -188,7 +188,7 @@ Títulos ≤60 caracteres. Las descripciones (≤155) y el texto completo vienen
 ## 8. Calendario (sin cambios mayores)
 | Fase | Fechas | Qué se hace |
 |---|---|---|
-| 0 | Ahora | Ficha de Google Business, reseñas, 301 sin-www → www, mejoras aditivas a `show.html`, auditoría y limpieza de Ads |
+| 0 | Ahora | Ficha de Google Business, reseñas, confirmar la canónica (Google usa sin `www` desde jul 2026; no forzar `www`), mejoras aditivas a `show.html`, auditoría y limpieza de Ads |
 | 1 | Nov | Verificar intención en SERP de catering, eventos, animación, streaming y fotografía; copy de todas las páginas |
 | 2 | Nov – dic | Tres direcciones visuales, elección y mockup |
 | 3 | Dic | Construcción en staging (noindex) |

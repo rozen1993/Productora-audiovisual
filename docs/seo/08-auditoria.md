@@ -3,6 +3,8 @@
 Documento 8. Fecha: 31 de octubre de 2026.
 Enfoque: revisar los documentos 01–07, `CLAUDE.md`, `vercel.json` y las tres direcciones visuales como si los hubiera hecho otra persona, verificar con datos nuevos lo dudoso y señalar errores, omisiones y riesgos.
 
+> **Actualizado en el traspaso (1 nov 2026, datos diarios):** el vacío va del 20 nov 2025 al 14 jul 2026. Las *Estadísticas de rastreo* de GSC solo guardan 90 días y ya no muestran ese periodo. Google pasó de `www` a la versión sin `www` (traspaso §3.4 y §9.2).
+
 **Datos nuevos usados en esta auditoría:** Search Console (semanas de dic 2025 – jun 2026; dispositivos ago–oct 2026), SERP en vivo de Google Perú ("rhino audiovisuales", "organización de eventos", `site:rhinoaudiovisuales.com`), comprobación automática de longitudes de títulos y descripciones, y cálculo de contraste WCAG de las paletas.
 
 ---
