@@ -23,8 +23,10 @@ La web antigua muestra los servicios de hace unos 5 años y está desactualizada
 11. Activaciones BTL y de marca (confirmado 31 oct 2026)
 12. Maestro de ceremonias (confirmado 31 oct 2026)
 13. Tours virtuales 360, además de fotos corporativas y video/fotografía inmobiliaria con drone (confirmado 31 oct 2026)
+14. Cobertura de eventos sociales: bodas, quinceañeros y cumpleaños (confirmado 1 nov 2026)
+15. Estudio fotográfico propio, con sesiones en estudio (confirmado 1 nov 2026)
 
-Arquitectura ampliada (18 páginas de servicio + 2 estacionales, publicadas en dos tandas): sección 10 del documento 03.
+Arquitectura ampliada (18 páginas de servicio + 2 estacionales, publicadas en dos tandas): sección 10 del documento 03. Estudio fotográfico y bodas (1 nov 2026): sección 11.
 
 El show infantil navideño también es un servicio vigente (el dueño quiere el primer puesto en diciembre). La arquitectura vigente está en `docs/seo/03-arquitectura-catalogo-completo.md`; las secciones 6–8 del documento 01 quedan sustituidas por ella.
 

@@ -22,7 +22,7 @@ Rhino Audiovisuales es una productora audiovisual y de eventos de Lima (Perú). 
 2. **Rhino no tiene ficha de Google Maps** y no aparece en las respuestas de IA, que recomiendan a quien tiene reseñas.
 3. **El mercado de búsqueda es pequeño:** "productora audiovisual" tiene 390 búsquedas al mes y casi todo lo demás son decenas. Un buen resultado son **~270–500 visitas al mes a 12 meses** (todos los canales), con 6–18 consultas.
 4. **La campaña de Ads está "No apta" desde marzo** y su conversión mide vistas de página, no contactos.
-5. **Las mejores oportunidades comerciales con competencia débil:** alquiler de pantallas LED, "productora audiovisual", cobertura audiovisual de eventos, fotos corporativas y coffee break/catering corporativo.
+5. **Las mejores oportunidades comerciales con competencia débil:** alquiler de pantallas LED, "productora audiovisual", cobertura audiovisual de eventos, fotos corporativas y coffee break/catering corporativo. Con el estudio propio (confirmado el 1 nov), también **estudio fotográfico**: la mayor búsqueda local del proyecto (2.900 al mes; 260 con "lima"), que se gana en el mapa.
 6. **Google cambió la versión preferida del dominio:** hasta nov 2025 usaba `www`; desde jul 2026 usa la versión **sin `www`**, porque hoy `www` redirige a la versión sin `www` aunque la etiqueta canónica diga `www`. La web nueva debe usar la versión que Google tenga elegida (§9.2).
 
 ---
@@ -208,8 +208,8 @@ CTR 11,1 %. \*Conversión = vista de página.
 
 **Otros grupos de términos** (revisión del 1 nov 2026, solo la campaña de Rhino):
 - **Marcas de otras productoras:** ~60 impresiones y 4 clics (S/ 3,88), sin conversión. Aparecieron: isa, palomino, arte y video, titan, creative producciones, ms filmaciones, gama, apu, saes, vas, contraluz, clip, horus, lapa, solano, rea, criss, maia films, yaolme, oss, makefilm, el rey, mil enfoques, avi y foto latino. Venían de la concordancia amplia con "producciones" y "filmaciones".
-- **Bodas, quinceañeros y cumpleaños:** ~35 impresiones y 1 clic (S/ 1,65, "fotografos para bodas"). Pendiente: ¿Rhino cubre eventos sociales? (§9.2).
-- **Estudio fotográfico y sesiones de fotos:** 5 clics, S/ 9,33, sin conversión ("estudio fotografico", "estudio fotografico lima", "foto studio", "estudio para sesión de fotos", "sesion fotografica lima"), más varias búsquedas "cerca de mí". Buscan un estudio físico.
+- **Bodas, quinceañeros y cumpleaños:** ~35 impresiones y 1 clic (S/ 1,65, "fotografos para bodas"). El dueño confirmó el 1 nov que los cubre: no se excluyen.
+- **Estudio fotográfico y sesiones de fotos:** 5 clics, S/ 9,33, sin conversión ("estudio fotografico", "estudio fotografico lima", "foto studio", "estudio para sesión de fotos", "sesion fotografica lima"), más varias búsquedas "cerca de mí". Buscan un estudio físico, y Rhino lo tiene (confirmado el 1 nov): ver §5.1 y el grupo S6 (§11).
 - **Quien vende, no quien compra:** "cuanto cobrar por edicion de video".
 - **Buen término sin palabra propia:** "servicio de videos corporativos", 2 clics a S/ 0,29. Se añade a S2 (§11).
 - **Más inglés:** "music video production" (28 impresiones), "video production" (8), "audiovisual agency" (4), "event videography" (1).
@@ -268,6 +268,11 @@ Volumen = media mensual de Google Ads (redondeado; subestima "lima"). Intención
 | motion graphics / video animado / animación 2D | 1.300 / 720 / 480 | Informativa | 9 | |
 | servicio de drone / tomas aéreas | 40 / 70 | Comercial 0,86 | — | "drone" 14.800 = producto |
 | fotografía inmobiliaria / tour virtual 360 | 30 / 20 | Informativa | — / 53 | |
+| **estudio fotográfico** | **2.900** | Informativa 0,92 (muchas buscan un estudio cercano) | — | Se decide en el mapa |
+| estudio fotográfico lima | 260 | Comercial 0,42 / informativa 0,34 | — | Mapa: Photolife (2.600 reseñas), Shima (56), Torres (29); orgánico débil (Facebook, Instagram, webs pequeñas) |
+| sesión de fotos lima | 110 | Informativa 0,50 / navegacional 0,43 | — | Competidores con "sesiones desde S/ 40" |
+| fotografía de bodas / video de bodas / fotógrafo de bodas lima | 70 / 40 / 10 | Informativa 0,55 / 0,62 / — | — | Nicho pequeño |
+| fotos de quinceañera | 170 | Informativa 0,88 | — | Ideas y poses: no perseguir |
 
 ### 5.2 Competencia, mapa, IA y enlaces
 - **Tráfico orgánico estimado (DataForSEO, Perú):** MAIA ~200, Flama ~170, Maracuyá ~90, Show Chiquitines ~1.770, Show Happy Kids ~1.280, E2peru ~710, Million Perú ~90 (+156 desde el mapa), Cuadro24 ~20 (+380 desde el mapa), **InEventos ~4.150**, Rhino ~13.
@@ -333,6 +338,7 @@ Volumen = media mensual de Google Ads (redondeado; subestima "lima"). Intención
 | 8 | Competencia débil en SEO (dificultad 0–11; sin enlaces de calidad comunes) | Confirmado |
 | 9 | InEventos es el directorio dominante y fuente de ChatGPT | Confirmado (estimación) |
 | 10 | La conversión de Ads no mide contactos; la cuenta nunca agotó el presupuesto | Confirmado |
+| 11 | Con el estudio propio, "estudio fotográfico" (2.900; 260 con "lima") es la mayor búsqueda local del proyecto; la deciden la ficha de Google (dirección, reseñas) y una página propia | Volumen y SERP confirmados; tráfico sin estimar hasta conocer la ubicación del estudio |
 
 ---
 
@@ -350,6 +356,8 @@ Volumen = media mensual de Google Ads (redondeado; subestima "lima"). Intención
 | Ads: **S/ 100 al mes**; ningún cambio en la cuenta sin vista previa y aprobación | Dueño | 31 oct |
 | Plan SEM de **dos campañas** (doc 11) | Consultor | 1 nov |
 | No usar servicios de indexación artificial (Omega Indexer) | Consultor | 31 oct |
+| Rhino cubre eventos sociales (bodas, quinceañeros, cumpleaños) y tiene estudio fotográfico propio | Dueño | 1 nov |
+| Páginas nuevas: estudio fotográfico (tanda A con datos reales) y bodas (tanda B); grupo S6 Estudio definido y pausado en Ads | Consultor | 1 nov |
 
 ### 9.2 Pendientes (decidir con datos)
 | Decisión | Dato que la resuelve | Recomendación provisional |
@@ -359,8 +367,10 @@ Volumen = media mensual de Google Ads (redondeado; subestima "lima"). Intención
 | Hosting | Términos del plan (el gratuito de Vercel es para uso no comercial) | Vercel Pro o Cloudflare Pages |
 | ¿Anunciar el show esta temporada? | Cuenta apta y medición instalada antes del **15 nov** | Si no, no se anuncia |
 | ¿Catálogo de alquiler con ficha por equipo (modelo E2peru)? | Inventario real de equipos | Solo si hay inventario propio |
-| ¿Estudio propio (podcast o fotos)? | Si existe un set abierto a clientes | Podcast: página para "estudios de grabación" (880). Fotos: sin estudio, negativas "estudio fotográfico" y "foto estudio" en Ads |
-| ¿Bodas y fiestas sociales? | Confirmación del dueño | Si no se cubren: negativas en C2 (boda, matrimonio, quinceañero, cumpleaños). Aparecieron ~35 impresiones en 3 meses |
+| ¿Estudio de podcast? | Si existe un set | Si existe, página para "estudios de grabación" (880) |
+| Categoría principal de la ficha | Datos de la ficha a los 2–3 meses | "Productora de video" (prioridades B2B del dueño) y "Estudio fotográfico" como secundaria. Revisar con datos |
+| Destino de `/fotografia.html` | Si la página del estudio sale en la tanda A | Al estudio (su contenido actual es "Sesiones de Fotos en Lima"); si no, a `/servicios/fotografia/`, como está en `vercel.json` |
+| ¿Activar S6 Estudio en Ads? | Ficha con la dirección del estudio y precios reales | Desde enero, si el dueño lo prioriza frente a catering o pantallas LED |
 
 ---
 
@@ -391,6 +401,8 @@ Volumen = media mensual de Google Ads (redondeado; subestima "lima"). Intención
 | `/servicios/alquiler-de-sonido-y-proyectores/` | alquiler de proyector / de sonido | B |
 | `/servicios/activaciones-btl/` | activaciones btl | B |
 | `/servicios/maestro-de-ceremonias/` | maestro de ceremonias (responder primero "cuánto cobra") | B |
+| `/servicios/estudio-fotografico/` (nueva, 1 nov; doc 03 §11) | estudio fotográfico en Lima (+ sesión de fotos en Lima) | A con dirección, fotos y precios reales; si no, B |
+| `/servicios/fotografia-y-video-de-bodas/` (nueva, 1 nov) | fotografía y video de bodas (+ quinceañeros) | B, con portafolio real |
 
 Además: `/portafolio/` con 4 casos, `/nosotros/`, `/contacto/`, `/gracias/` (noindex), `/politica-de-privacidad/` y `/Brochure.pdf` (misma URL, sin redirección).
 
@@ -409,7 +421,7 @@ Además: `/portafolio/` con 4 casos, `/nosotros/`, `/contacto/`, `/gracias/` (no
   - Bing Webmaster Tools + IndexNow.
   - Actualizar las URL finales de Ads y el enlace de la ficha de Google.
 - **SEO local y autoridad:**
-  - Ficha de Google con categoría principal "Productora de video" (secundarias solo de servicios reales).
+  - Ficha de Google con categoría principal "Productora de video" y secundarias solo de servicios reales, entre ellas "Estudio fotográfico". Si el estudio recibe clientes, la ficha puede mostrar su dirección y competir en el mapa por cercanía.
   - **25 reseñas en 6 meses.**
   - Altas en **InEventos**, Sortlist, geotv.pe y bcontent.
   - Enlaces de clientes y gremios.
@@ -449,12 +461,14 @@ Además: `/portafolio/` con 4 casos, `/nosotros/`, `/contacto/`, `/gracias/` (no
 
 S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de la lista general: bloquearía "live streaming".
 
+S6 Estudio fotográfico (nuevo, **pausado** hasta tener la ficha con la dirección del estudio y precios reales; candidato desde enero): CPC máx. S/ 1,00; frase "estudio fotográfico lima", "sesión de fotos lima", "sesión de fotos en estudio". Competencia baja en anuncios; en el histórico estas búsquedas costaron S/ 2,25–2,53 por clic porque entraban por concordancia amplia desde otros grupos.
+
 **Negativas:**
 - **Generales:** empleo(s), trabajo(s), vacante, bolsa de trabajo, sueldo, salario, curso(s), clases, carrera, universidad, instituto, diplomado, tutorial, "cómo hacer", "qué es", "cuánto cobrar" (también sin tildes), significado, definición, ejemplo(s), plantilla, pdf, gratis, descargar, app, software, programa, wikipedia, production, live, stock, agency, videography, españa, madrid.
 - **Otras productoras** (lista propia para ambas campañas, concordancia de frase; todas aparecieron en los términos de Rhino): "producciones isa", palomino, "arte y video", "arte video", "gama films", "gama producciones", "titan producciones", yaolme, "solano producciones", "saes producciones", "lapa producciones", horus, "contraluz films", "maia films", "criss producciones", "apu producciones", "rea producciones", "vas producciones", "creative producciones", "filmaciones el rey", "mil enfoques", "producciones avi", "clip producciones", "ms filmaciones", "oss productions", makefilm, "foto latino". Se amplía cada lunes.
-- **C1:** entradas, mall, "centro comercial", mallplaza, "real plaza", jockey, municipalidad, parque, cartelera, hoy, disfraz(ces), canción(es), letra, dibujo(s), ideas, guion, texto, frases, mensaje(s), cumpleaños (si no se ofrece).
+- **C1:** entradas, mall, "centro comercial", mallplaza, "real plaza", jockey, municipalidad, parque, cartelera, hoy, disfraz(ces), canción(es), letra, dibujo(s), ideas, guion, texto, frases, mensaje(s), cumpleaños (la página es del show navideño).
 - **S4:** comprar, venta, vendo, segunda, usada(o), arduino, tv, televisor, reparar, reparación, mochila, fondo(s), publicidad, publicitaria, flexible, manchas.
-- **C2, según lo que confirme el dueño:** boda(s), matrimonio, quinceañero(a) y cumpleaños si no cubre eventos sociales; "estudio fotográfico", "estudios fotográficos", "foto estudio" y "foto studio" si no tiene estudio abierto al público.
+- **Bodas, eventos sociales y estudio fotográfico: no se excluyen** (el dueño los cubre, 1 nov).
 
 **Recursos:**
 - Llamada (+51 965 683 542).
@@ -487,13 +501,14 @@ S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de
 
 - **Evolución orgánica central:** meses 1–2 entre 25 y 50 · mes 3 entre 60 y 100 · mes 6 entre 100 y 170 · mes 12 entre 200 y 330. Más un pico de diciembre de +100 a +300 si el show llega al top 2.
 - **Aportes previstos a 12 meses:** "productora audiovisual" y home ~40 · marca ~30 · show (media anual) ~50 · pantallas LED 20–40 · fotos corporativas 15–30 · cobertura 7–15 · catering 6–15 · video corporativo 10–15 · resto y búsquedas pequeñas ~40–80.
+- **No incluye el estudio fotográfico** (confirmado el 1 nov): puede sumar bastante si la ficha con dirección entra en el mapa, pero no se estima hasta conocer la ubicación del estudio.
 
 ### 12.2 Indicadores y metas
 | Indicador | Meta |
 |---|---|
 | Bloqueo de rastreadores resuelto (*Probar URL publicada* muestra la página real) | Semana 1 |
 | Canónica confirmada (con o sin `www`) | Semana 1 |
-| Ficha de Google verificada | Semanas 1–2 |
+| Ficha de Google verificada (con la dirección del estudio, si recibe clientes) | Semanas 1–2 |
 | Reseñas reales | 10 al mes 3 · **25 al mes 6** |
 | Altas en InEventos, Sortlist, geotv.pe y bcontent | Mes 1 |
 | Contactos medidos por canal | Desde la activación de Ads o el lanzamiento |
@@ -511,7 +526,7 @@ S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de
    - ¿Qué URL canónica eligió Google?
    - Protección anti-bots del hosting, y qué cambió en el hosting hacia el 20 nov 2025 y el 15 jul 2026.
 2. Google Ads: motivo exacto de "No apta". Instalar la medición de contactos.
-3. Crear y verificar la ficha de Google Business.
+3. Crear y verificar la ficha de Google Business, con la dirección del estudio si recibe clientes allí.
 
 **Proyecto (consultor):**
 4. El dueño elige la dirección visual → mockup completo (home más corta; escritorio y móvil por igual; contraste AA).
@@ -525,7 +540,9 @@ S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de
 - Logo, colores, fotos y videos propios.
 - Precios "desde", plazos, medidas y resolución de las pantallas LED.
 - Maestro de ceremonias (nombre, foto, video). Casos reales de BTL.
-- Si tiene estudio (podcast o fotos) abierto a clientes, si cubre bodas y fiestas sociales, y si tiene inventario de equipos sueltos.
+- **Estudio fotográfico:** dirección, distrito, horario, fotos, precios "desde" y si se alquila a otros fotógrafos.
+- Portafolio real de bodas y quinceañeros.
+- Si existe estudio de podcast o inventario de equipos sueltos.
 - Dirección, RUC y razón social. Permisos sanitarios (catering) y registro de operador de drone.
 - Libro de Reclamaciones virtual y política de privacidad, con asesor legal.
 - Autorización para nombrar a Redinter, Premium Tasting Lima, Bloom of Colors y Adidas.
@@ -567,13 +584,13 @@ S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de
 |---|---|
 | `docs/seo/00-traspaso.md` | **Fuente de verdad** |
 | `CLAUDE.md` | Reglas permanentes (se carga en cada sesión) |
-| `docs/seo/03-arquitectura-catalogo-completo.md` | Vigente (URLs, palabras, títulos, tandas) |
+| `docs/seo/03-arquitectura-catalogo-completo.md` | Vigente (URLs, palabras, títulos, tandas; §11: estudio y bodas) |
 | `docs/seo/06-contenido-de-paginas.md` | Vigente (contenido provisional) |
 | `docs/seo/07-especificacion-tecnica-y-brief-de-diseno.md` | Vigente (construcción, lanzamiento, brief), salvo la canónica (§9.2) |
 | `docs/seo/11-auditoria-y-plan-sem.md` | **Vigente para Google Ads** |
-| `docs/seo/04-…` §8 | Vigente para la proyección SEM; el resto del 04 y el 05, contexto |
-| `docs/seo/08-…`, `09-…`, `10-…` | Auditorías (hallazgos ya incorporados aquí) |
-| `docs/seo/01-…`, `02-…` | Histórico y contexto |
+| `docs/seo/04-proyecciones-y-plan-sem.md` §8 | Vigente para la proyección SEM; el resto del 04 y `docs/seo/05-prioridades-del-dueno-y-campana.md`, contexto |
+| `docs/seo/08-auditoria.md`, `docs/seo/09-revision-critica-y-oportunidades.md`, `docs/seo/10-tercera-auditoria.md` | Auditorías (hallazgos ya incorporados aquí) |
+| `docs/seo/01-estrategia-y-arquitectura.md`, `docs/seo/02-investigacion-de-mercado.md` | Histórico y contexto |
 | `vercel.json` | Vigente (redirecciones por ruta; la de dominio se configura en el panel del hosting) |
 | `content/datos-de-prueba.json` | Solo mockup y staging |
 | `design/direcciones/` | Tres direcciones (HTML, PNG, `render.js`) |
@@ -607,3 +624,4 @@ S5 Streaming queda pausado (casi sin búsquedas). Si se activa, quitar "live" de
 | 1 nov 2026 | Tercera auditoría (doc 10) y primera versión del traspaso; correcciones de coherencia en docs 01, 03, 04, 05, 09 y `CLAUDE.md` |
 | 1 nov 2026 | Auditoría SEM y plan corregido (doc 11); contenido del doc 06 ajustado; corrección del doc 09 sobre dispositivos y formulario de Ads |
 | 1 nov 2026 | Traspaso ampliado con los datos de Search Console (16 meses, días en que empieza y acaba el vacío, consultas y páginas de ago–oct), Google Ads (con revisión de términos de búsqueda filtrada por campaña), mercado y plan SEM completo. Hallazgo: Google cambió la canónica a la versión sin `www` (hoy `www` redirige); la canónica pasa a decisión pendiente en `CLAUDE.md` y en los docs 03 y 07. Doc 11: negativas por marcas, "cuánto cobrar", inglés y estudio; "servicio de videos corporativos" en S2 |
+| 1 nov 2026 | Respuestas del dueño: cubre bodas, quinceañeros y cumpleaños, y tiene estudio fotográfico. Datos de "estudio fotográfico" (2.900; 260 con "lima"), páginas nuevas (doc 03 §11), grupo S6 Estudio pausado en Ads y sin negativas de bodas ni de estudio. Auditoría breve de coherencia: sin errores de fondo |

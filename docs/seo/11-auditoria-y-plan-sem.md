@@ -50,7 +50,7 @@ Documento 11. Fecha: 1 de noviembre de 2026.
 | S8 | **El doc 09 daba por hecho el formulario de contacto de Google Ads.** Google lo habilita solo a cuentas que cumplen requisitos (historial y gasto); con S/ 132 de gasto histórico, probablemente no esté disponible | Media | Corregido: "verificar si la cuenta es elegible" |
 | S9 | **Sin fecha límite para el show:** la temporada ya empezó y la campaña sigue "No apta" | Media | Corregido: corte el 15 de noviembre (§3.7) |
 | S10 | **El horario 7:00–20:00 de lunes a sábado era una suposición** | — | **Validado con datos** (§1) |
-| S11 | **Faltaban exclusiones que muestran los términos de búsqueda** (revisión del 1 nov): ~60 impresiones y 4 clics (S/ 3,88) en marcas de otras productoras; 5 clics (S/ 9,33) de "estudio fotográfico" y "sesión de fotos" sin conversión; ~35 impresiones de bodas, quinceañeros y cumpleaños; "cuanto cobrar por edicion de video" (quien vende, no quien compra). Y faltaba un término rentable: "servicio de videos corporativos" (2 clics a S/ 0,29) | Media | Corregido (§3.3 y §3.4); bodas y estudio, según lo que confirme el dueño |
+| S11 | **Faltaban exclusiones que muestran los términos de búsqueda** (revisión del 1 nov): ~60 impresiones y 4 clics (S/ 3,88) en marcas de otras productoras; 5 clics (S/ 9,33) de "estudio fotográfico" y "sesión de fotos" sin conversión; ~35 impresiones de bodas, quinceañeros y cumpleaños; "cuanto cobrar por edicion de video" (quien vende, no quien compra). Y faltaba un término rentable: "servicio de videos corporativos" (2 clics a S/ 0,29) | Media | Corregido (§3.3 y §3.4). El dueño cubre bodas y tiene estudio (1 nov): esas búsquedas no se excluyen y se define S6 |
 
 ---
 
@@ -113,16 +113,21 @@ Configuración común:
 
 **C2 · S5 Streaming:** definido pero **pausado** (casi sin búsquedas). Se vende por contacto directo y por SEO. Si se activa, quitar "live" de la lista general: bloquearía "live streaming".
 
+**C2 · S6 Estudio fotográfico** (nuevo, 1 nov): **pausado** hasta tener la ficha de Google con la dirección del estudio y precios reales; candidato desde enero si el dueño lo prioriza.
+- CPC máximo S/ 1,00 (competencia baja en anuncios).
+- Frase: "estudio fotográfico lima", "sesión de fotos lima", "sesión de fotos en estudio".
+- En el histórico, estas búsquedas costaron S/ 2,25–2,53 por clic porque entraban por concordancia amplia desde otros grupos; con grupo propio deberían costar menos (hipótesis).
+
 ### 3.4 Palabras negativas
 **Lista compartida "Rhino – generales" (ambas campañas):** empleo, empleos, trabajo, trabajos, vacante, bolsa de trabajo, sueldo, salario, curso, cursos, clases, carrera, universidad, instituto, diplomado, tutorial, "como hacer", "cómo hacer", "que es", "qué es", significado, definición, ejemplo, ejemplos, plantilla, pdf, gratis, descargar, app, software, programa, wikipedia, production, live, stock, agency, videography, "cuanto cobrar", "cuánto cobrar", españa, madrid.
 
 **Lista compartida "Rhino – otras productoras" (ambas campañas; concordancia de frase):** "producciones isa", palomino, "arte y video", "arte video", "gama films", "gama producciones", "titan producciones", yaolme, "solano producciones", "saes producciones", "lapa producciones", horus, "contraluz films", "maia films", "criss producciones", "apu producciones", "rea producciones", "vas producciones", "creative producciones", "filmaciones el rey", "mil enfoques", "producciones avi", "clip producciones", "ms filmaciones", "oss productions", makefilm, "foto latino". Todas aparecieron en los términos de búsqueda de la campaña de Rhino. Se amplía cada lunes.
 
-**C1 Temporada:** entradas, mall, "centro comercial", mallplaza, "real plaza", jockey, municipalidad, parque, cartelera, hoy, disfraz, disfraces, canción, canciones, letra, dibujo, dibujos, ideas, guion, texto, frases, mensaje, mensajes, cumpleaños (si no se ofrece).
+**C1 Temporada:** entradas, mall, "centro comercial", mallplaza, "real plaza", jockey, municipalidad, parque, cartelera, hoy, disfraz, disfraces, canción, canciones, letra, dibujo, dibujos, ideas, guion, texto, frases, mensaje, mensajes, cumpleaños (la página es del show navideño).
 
 **C2 · S4 Pantallas LED:** comprar, venta, vendo, segunda, usada, usado, arduino, tv, televisor, reparar, reparación, mochila, fondo, fondos, publicidad, publicitaria, flexible, manchas.
 
-**C2, según lo que confirme el dueño:** si no cubre eventos sociales, boda, bodas, matrimonio, quinceañero, quinceañera, cumpleaños; si no tiene estudio abierto al público, "estudio fotográfico", "estudios fotográficos", "foto estudio", "foto studio".
+**Bodas, eventos sociales y estudio fotográfico: no se excluyen** (el dueño los cubre, 1 nov 2026).
 
 ### 3.5 Anuncios y recursos
 - Los borradores del documento 04 §3.4 sirven. **Prohibido usar precios de prueba en anuncios:** el recurso de precio solo con precios reales.
@@ -170,5 +175,6 @@ Configuración común:
 | Formulario de contacto de Ads como seguro | Solo si la cuenta es elegible |
 | Sin lista de marcas ajenas ni de quien vende | Lista "Rhino – otras productoras", "cuánto cobrar", más inglés; bodas y estudio según el dueño |
 | S2 sin "servicio de videos corporativos" | Añadida (rentable en el histórico) |
+| Bodas y estudio sin decidir | El dueño los cubre: no se excluyen; S6 Estudio definido y pausado |
 | Horario supuesto | Horario validado con datos |
 | Sin fecha límite para el show | Corte el 15 de noviembre |

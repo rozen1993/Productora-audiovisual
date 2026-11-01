@@ -138,7 +138,7 @@ Títulos ≤60 caracteres. Las descripciones (≤155) y el texto completo vienen
 | `/servicios/spots-publicitarios/` | video publicitario | video promocional, spots publicitarios, comerciales, videos para redes | Spots y Videos Publicitarios en Lima \| Rhino | Spots y videos publicitarios para tu marca |
 | `/servicios/animacion-y-motion-graphics/` | motion graphics | videos animados, animación 2D | Animación y Motion Graphics para Empresas \| Rhino | Videos animados y motion graphics |
 | `/servicios/drones/` | servicio de drone | tomas aéreas, fotografía aérea, video con drone, drone inmobiliario | Servicio de Drone en Lima: Video y Foto Aérea \| Rhino | Servicio de drone: video y foto aérea |
-| `/servicios/fotografia/` | fotografía publicitaria | fotografía de productos, de eventos, sesión fotográfica | Fotografía Publicitaria y de Productos en Lima \| Rhino | Fotografía profesional para marcas |
+| `/servicios/fotografia/` | fotografía publicitaria | fotografía de productos, de eventos | Fotografía Publicitaria y de Productos en Lima \| Rhino | Fotografía profesional para marcas |
 | `/servicios/fotos-corporativas/` | fotos corporativas (390–480, intención mixta, doc 10) | fotografía corporativa, fotos para LinkedIn, fotos de equipo | Fotos Corporativas en Lima para Equipos y LinkedIn \| Rhino | Fotos corporativas para tu equipo en Lima |
 | `/servicios/video-y-fotografia-inmobiliaria/` | fotografía inmobiliaria | video inmobiliario, tour virtual 360, video para inmobiliarias | Video y Fotografía Inmobiliaria con Drone en Lima \| Rhino | Video y fotografía inmobiliaria |
 | `/servicios/alquiler-de-pantallas-led/` | pantalla led para eventos (390) | alquiler de pantallas led (170) | Alquiler de Pantallas LED para Eventos en Lima \| Rhino | Alquiler de pantallas LED para eventos |
@@ -216,7 +216,7 @@ El dueño confirma que también ofrece: **alquiler de pantallas LED, de sonido y
 **Familias del hub `/servicios/` y del menú (megamenú por familia):**
 - **Producción audiovisual:** producción audiovisual, video corporativo, spots, animación.
 - **Eventos:** organización, cobertura, streaming y podcast, catering, pantallas LED, sonido y proyectores, activaciones BTL, maestro de ceremonias.
-- **Fotografía y drone:** fotografía publicitaria, fotos corporativas, drone, inmobiliaria.
+- **Fotografía y drone:** fotografía publicitaria, fotos corporativas, estudio fotográfico, bodas, drone, inmobiliaria.
 - **Digital:** marketing digital, desarrollo web.
 - **Temporada:** fiesta de fin de año para empresas, show infantil navideño.
 
@@ -228,4 +228,30 @@ El dueño confirma que también ofrece: **alquiler de pantallas LED, de sonido y
 
 **Posicionamiento:** la home conserva "Productora audiovisual en Lima" (lo que ya posiciona). El subtítulo pasa a presentar a Rhino como **productora audiovisual y de eventos**.
 
-**Ficha de Google:** categoría principal "Productora de video"; secundarias solo de servicios reales: organizador de eventos, servicio de alquiler de equipos audiovisuales, servicio de catering, fotógrafo comercial.
+**Ficha de Google:** categoría principal "Productora de video"; secundarias solo de servicios reales: organizador de eventos, servicio de alquiler de equipos audiovisuales, servicio de catering, fotógrafo comercial, estudio fotográfico.
+
+---
+
+## 11. Ampliación (dueño, 1 nov 2026): estudio fotográfico y eventos sociales
+
+El dueño confirma que **tiene estudio fotográfico propio** y que **cubre eventos sociales** (bodas, quinceañeros, cumpleaños). Datos: DataForSEO, Perú, 1 nov 2026 (volumen de Google Ads, clasificador de intención, SERP en móvil).
+
+| Búsqueda | Al mes | Intención | Qué muestra Google |
+|---|---|---|---|
+| estudio fotográfico | 2.900 | Informativa 0,92 según el clasificador; muchas buscan un estudio cercano | Se decide en el mapa |
+| estudio fotográfico lima | 260 | Comercial 0,42 / informativa 0,34 | Mapa primero: Photolife (2.600 reseñas), Shima (56), Torres (29). Orgánico débil: Facebook, Instagram ("sesiones desde S/ 40"), webs pequeñas y directorios |
+| sesión de fotos lima | 110 | Informativa 0,50 / navegacional 0,43 | Relacionadas: "sesión de fotos lima precios", "estudio fotográfico surco" |
+| fotografía de bodas / video de bodas / fotógrafo de bodas lima | 70 / 40 / 10 | Informativa 0,55 / 0,62 / — | Nicho pequeño |
+| fotos de quinceañera | 170 | Informativa 0,88 | Ideas y poses: no se persigue |
+
+**Páginas nuevas:**
+| URL | Palabra principal | Title | H1 | Tanda |
+|---|---|---|---|---|
+| `/servicios/estudio-fotografico/` | estudio fotográfico en Lima (+ sesión de fotos en Lima) | Estudio fotográfico en Lima \| Rhino Audiovisuales (49) | Estudio fotográfico en Lima | **A** si el dueño entrega dirección, fotos y precios "desde"; si no, B |
+| `/servicios/fotografia-y-video-de-bodas/` | fotografía y video de bodas (+ quinceañeros como sección) | Fotografía y video de bodas en Lima \| Rhino Audiovisuales (57) | Fotografía y video de bodas en Lima | B, solo con portafolio real |
+
+- **Canibalización:** "sesión fotográfica" sale de `/servicios/fotografia/` (publicidad y productos) y pasa al estudio.
+- **Destino de `/fotografia.html`:** su contenido actual es "Sesiones de Fotos en Lima", así que el equivalente más cercano es el estudio. Si el estudio sale en la tanda A, redirigir ahí; si no, a `/servicios/fotografia/`, como está en `vercel.json`. Tráfico en juego mínimo: 69 impresiones y 0 clics en 12 meses.
+- **Ficha de Google:** si el estudio recibe clientes, la ficha puede mostrar su dirección y competir en el mapa por cercanía. Categoría principal "Productora de video" (prioridades B2B del dueño) y "Estudio fotográfico" como secundaria; revisar con los datos de la ficha a los 2–3 meses. Pedir reseña tras cada sesión.
+- **Contenido:** pendiente en el doc 06 hasta tener dirección, distrito, horario, fotos, precios "desde" y si el estudio se alquila a otros fotógrafos.
+- **Proyección:** sin estimar hasta conocer la ubicación del estudio (en el mapa manda la cercanía).
