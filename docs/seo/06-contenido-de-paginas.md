@@ -159,6 +159,7 @@ Orden de bloques (el diseño visual los respetará):
   - Atención gastronómica para eventos y producciones
 - **Cómo cotizar:** dinos fecha, número de personas, tipo de servicio, lugar y presupuesto aproximado.
 - **Ventaja:** catering, evento y audiovisual con un solo responsable.
+- **Sección "Qué incluye cada opción" (doc 10):** coffee break, desayuno y almuerzo, con opciones para 20, 50 y 100 personas. Responde "coffee break que incluye" e "ideas de coffee break", y menciona "coffee break en Lima" y "servicio de coffee break" (140 y 70 búsquedas al mes).
 - **Precio:** "Desde S/ `[COMPLETAR]` por persona, según el servicio."
 - **Permisos:** `[COMPLETAR: permisos sanitarios y municipales vigentes]`. No publicar esta línea sin tenerlos.
 - **Preguntas frecuentes**
@@ -336,7 +337,7 @@ Orden de bloques (el diseño visual los respetará):
 
 ---
 
-## 18. Fotos corporativas — `/servicios/fotos-corporativas/` (oportunidad principal)
+## 18. Fotos corporativas — `/servicios/fotos-corporativas/` (prioritaria; intención mixta, doc 10)
 
 - **Título:** Fotos Corporativas en Lima para Equipos y LinkedIn | Rhino
 - **Descripción:** Fotos corporativas en Lima para tu equipo: retratos para LinkedIn, web e informes, en tu oficina o en set. Sesiones para empresas. Cotiza.
@@ -346,6 +347,8 @@ Orden de bloques (el diseño visual los respetará):
 - **Cómo funciona:** agenda por turnos para no detener a tu equipo `[VALIDAR: minutos por persona]` · set portátil en tu oficina `[VALIDAR]` · selección y retoque · entrega en `[COMPLETAR: plazo]`.
 - **Precio:** "Desde S/ `[COMPLETAR]` por persona; tarifas por volumen."
 - **Preguntas frecuentes:** ¿Cuánto cuestan las fotos corporativas por persona? · ¿Pueden venir a nuestra oficina? · ¿Qué ropa conviene llevar? · ¿En cuánto tiempo entregan? · ¿Sirven para LinkedIn?
+- **Sección "Qué ponerte y cómo posar" (doc 10):** guía breve de vestimenta, colores y poses para hombres y mujeres. Capta las búsquedas informativas ("fotos corporativas mujer" 110, "hombres" 70, "poses para fotos corporativas" 20–40) y termina con el botón de reserva.
+- **Sección "Fotos reales frente a fotos con IA" (doc 10):** coherencia de todo el equipo, naturalidad y derechos de uso claros. En la SERP ya aparecen generadores de fotos con IA.
 - **Relacionados:** fotografía publicitaria, cobertura de eventos, marketing digital.
 - **Schema:** Service, FAQPage, BreadcrumbList.
 
@@ -361,6 +364,7 @@ Orden de bloques (el diseño visual los respetará):
 - **Preguntas frecuentes:** ¿Con cuánta anticipación reservar? · ¿Pueden hacerlo en nuestras instalaciones? · ¿Incluye show para los hijos de los colaboradores? · ¿Cuánto cuesta por persona?
 - **Relacionados:** show infantil navideño, catering corporativo, organización de eventos, cobertura de eventos.
 - **Nota:** URL fija sin año; se actualiza el contenido cada temporada (octubre–diciembre).
+- **Palabra principal (doc 10):** "fiesta de fin de año para empresas". "Eventos de fin de año" es informativa (gente que busca eventos para asistir).
 
 ## 20. Alquiler de pantallas LED — `/servicios/alquiler-de-pantallas-led/`
 
@@ -370,6 +374,7 @@ Orden de bloques (el diseño visual los respetará):
 - **Contenido:** medidas y configuraciones `[COMPLETAR]` · interior y exterior `[COMPLETAR]` · instalación, operación técnica y contenido `[VALIDAR]` · usos (conferencias, lanzamientos, ferias, conciertos, fiestas corporativas).
 - **Preguntas frecuentes:** ¿Cuánto cuesta alquilar una pantalla LED? · ¿Qué tamaño necesito? · ¿Sirve para exteriores de día? · ¿Con cuánto tiempo se instala?
 - **Relacionados:** sonido y proyectores, streaming, organización de eventos.
+- **Nota (doc 10):** es la oportunidad comercial más sólida. Imprescindible: medidas, resolución (pitch), precio "desde", fotos de montajes reales y tiempo de instalación.
 
 ## 21. Alquiler de sonido y proyectores — `/servicios/alquiler-de-sonido-y-proyectores/`
 
@@ -394,7 +399,8 @@ Orden de bloques (el diseño visual los respetará):
 - **Descripción:** Maestro de ceremonias para eventos corporativos, institucionales y sociales en Lima: guion, conducción y coordinación con la producción.
 - **H1:** Maestro de ceremonias para tu evento
 - **Contenido:** quién conduce (nombre, foto, video de muestra) `[COMPLETAR]` · tipos de evento · preparación del guion y del protocolo · coordinación con sonido, pantallas y producción.
-- **Preguntas frecuentes:** ¿Qué hace un maestro de ceremonias? · ¿Preparan el guion? · ¿Cuánto cuesta?
+- **Preguntas frecuentes, en este orden (doc 10):** ¿Cuánto cobra un maestro de ceremonias en Perú? (con precio "desde") · ¿Qué hace un maestro de ceremonias? · ¿Preparan el guion y el protocolo? · ¿Qué incluye el servicio?
+- **Nota (doc 10):** "maestro de ceremonias" es 81 % informativa. La página responde primero la pregunta de precio, que es la que tiene intención de compra.
 
 ## 24. Video y fotografía inmobiliaria — `/servicios/video-y-fotografia-inmobiliaria/`
 

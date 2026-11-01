@@ -1,6 +1,8 @@
 # Rhino Audiovisuales — Prioridades del dueño y campaña revisada
 
 Documento 5. Fecha de los datos: 31 de octubre de 2026. Mercado: Lima, Perú.
+
+> **Sustituido para Google Ads por el documento 11 (1 nov 2026):** estructura de dos campañas, presupuestos diarios por periodo, palabras clave y negativas corregidas. Este documento queda como contexto de las prioridades del dueño.
 **Prioridades indicadas por el dueño:** (1) cobertura de eventos, (2) streaming y podcast, (3) catering. Objetivo: que lleguen clientes cuanto antes.
 Este documento ajusta los documentos 03 y 04 (reparto de presupuesto y prioridades).
 

@@ -95,7 +95,7 @@ El plan es correcto en lo técnico (redirecciones, estructura, honestidad con la
 | 7 | Video infrautilizado | Canal de YouTube con *showreel*, show, coberturas y tomas con drone; cada caso con su video como contenido principal (resultados de video en Google) |
 | 8 | Show: redirección en plena temporada (decisión del dueño) | Riesgo aceptado. Mitigación: misma página en contenido, indexación solicitada el día del cambio, anuncios a la URL nueva |
 | 9 | Bing ignorado | ChatGPT busca con Bing: alta en Bing Webmaster Tools e IndexNow desde Vercel |
-| 10 | Google Ads sin aprovechar recursos gratuitos | Cuando exista la ficha: recurso de ubicación; recurso de llamada; recurso de formulario de contacto (no depende de la web); ajuste por escritorio |
+| 10 | Google Ads sin aprovechar recursos gratuitos | Cuando exista la ficha: recurso de ubicación; recurso de llamada; formulario de contacto **solo si la cuenta es elegible**. **Corregido en el doc 11:** sin ajuste por escritorio (en Ads el 73 % de los clics es móvil y cuesta la mitad) |
 
 ---
 

@@ -67,7 +67,7 @@ No inventar datos de la empresa para publicar. El dueño pidió (31 oct 2026) **
 
 ## Publicidad (SEM)
 
-- Presupuesto de Google Ads: **S/ 100 al mes como máximo**. Plan en `docs/seo/04-proyecciones-y-plan-sem.md`.
+- Presupuesto de Google Ads: **S/ 100 al mes como máximo**. Plan vigente: `docs/seo/11-auditoria-y-plan-sem.md` (dos campañas; en Google Ads el presupuesto es por campaña, no por grupo de anuncios). Proyección SEM: doc 04 §8.
 - La conversión actual de la cuenta es "Vista de una página": no mide contactos. Antes de optimizar, medir formulario, clic en WhatsApp y clic en teléfono.
 - No aplicar cambios a la cuenta de Google Ads sin mostrar una vista previa y recibir aprobación expresa.
 - Las proyecciones de tráfico son hipótesis con rangos y supuestos; nunca prometerlas como resultado.

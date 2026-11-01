@@ -88,6 +88,8 @@ No las proyecto. Equivalen a 10–25 veces lo que recibe el líder del rubro.
 
 ## 3. Plan SEM con S/ 100 al mes
 
+> **Sustituido por el documento 11 (1 nov 2026)** en estructura, palabras clave, negativas y presupuestos (el presupuesto de Google Ads es por campaña, no por grupo de anuncios). La proyección vigente sigue en la sección 8 de este documento.
+
 ### 3.1 Antes de gastar un sol: arreglar la medición (esta semana)
 La conversión actual (vista de página) no sirve. Hay que registrar:
 1. **Envío del formulario** (página de gracias o evento).

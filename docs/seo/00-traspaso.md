@@ -72,6 +72,8 @@ Se investigó el mercado con datos reales y se diseñó todo esto:
 | Catálogo ampliado | Pantallas LED, sonido y proyectores, BTL, maestro de ceremonias, tours 360, fotos corporativas, fin de año | doc 03 §10, doc 06 §18–24 |
 | Datos de prueba | Valores verosímiles solo para mockup y staging | `content/datos-de-prueba.json` |
 | Tercera auditoría | Coherencia, validación de intención y dificultad, oportunidades nuevas | `10-tercera-auditoria.md` |
+| Auditoría SEM y plan corregido | Dos campañas, presupuestos diarios por periodo, palabras según intención, negativas, medición, fecha límite del show | `11-auditoria-y-plan-sem.md` **(vigente para Ads)** |
+| Contenido ajustado a la auditoría | Fotos corporativas, maestro de ceremonias, catering, pantallas LED, fin de año | doc 06 §5, §18–20 y §23 |
 
 ---
 
@@ -146,11 +148,11 @@ Se investigó el mercado con datos reales y se diseñó todo esto:
 6. Staging con `noindex` → pruebas de redirecciones y medición → lanzamiento con la lista de comprobación.
 7. Tras el lanzamiento: sitemap, *Solicitar indexación* en 8–10 páginas, Bing Webmaster Tools + IndexNow, vigilancia 4–8 semanas.
 
-**Publicidad, vigente (doc 05):**
-- Nov–dic: show 50 · eventos 35 · producción 15 (dic: 60 · 25 · 15). Fin de año solo si su página está publicada.
-- Desde enero: eventos 35 · catering 25 · pantallas LED 25 · producción 15.
-- Excluir "pantalla led" y "publicidad en pantalla led".
-- Antes de nada: resolver "No apta" y medir contactos reales.
+**Publicidad, vigente (doc 11):**
+- **Dos campañas:** C1 Temporada (show y fin de año, hasta el 22 dic, todos los días 7:00–21:00) y C2 Servicios (eventos, producción, catering y pantallas LED; lunes a sábado 7:00–20:00, horario validado con datos).
+- **Presupuesto diario:** noviembre S/ 2,40 + 2,40; diciembre S/ 2,70 (C1, hasta el 22) + 1,30 (C2); desde enero S/ 3,30 (solo C2).
+- **Corte el 15 de noviembre:** si la cuenta sigue "No apta" o no se miden contactos, no se anuncia el show esta temporada.
+- Antes de nada: resolver "No apta" y medir WhatsApp, teléfono y formulario como conversiones principales.
 
 ---
 
@@ -187,6 +189,8 @@ Se investigó el mercado con datos reales y se diseñó todo esto:
 5. **El brief de diseño asumía móvil mayoritario sin datos**: es escritorio.
 6. **Se tomó la fecha del primer enlace de Flama como antigüedad del dominio.**
 7. **Proliferaron versiones de la misma decisión** en varios documentos. Lección: actualizar este traspaso y marcar lo sustituido.
+8. **El plan SEM repartía el presupuesto por grupos de anuncios** dentro de una sola campaña, algo que Google Ads no permite (el presupuesto es por campaña). Corregido en el doc 11.
+9. **Se recomendó subir la puja en escritorio con datos orgánicos**; en anuncios, el 73 % de los clics es móvil y cuesta la mitad. Lección: no trasladar datos de un canal a otro.
 
 ---
 
@@ -198,7 +202,8 @@ Se investigó el mercado con datos reales y se diseñó todo esto:
 | `docs/seo/03-arquitectura-catalogo-completo.md` | Vigente (URLs, palabras clave, títulos, tandas) |
 | `docs/seo/06-contenido-de-paginas.md` | Vigente (contenido provisional) |
 | `docs/seo/07-especificacion-tecnica-y-brief-de-diseno.md` | Vigente (construcción, lanzamiento, brief) |
-| `docs/seo/04-…` §7–8 y `05-…` §5 y §8 | Vigentes para proyecciones y Ads; el resto, contexto |
+| `docs/seo/11-auditoria-y-plan-sem.md` | **Vigente para Google Ads** (estructura, presupuestos, palabras, medición) |
+| `docs/seo/04-…` §8 | Vigente para la proyección SEM; el resto del 04 y el 05, contexto |
 | `docs/seo/08-…`, `09-…`, `10-…` | Auditorías y revisiones (hallazgos ya incorporados aquí) |
 | `docs/seo/01-…`, `02-…` | Histórico y contexto |
 | `vercel.json` | Vigente (redirecciones) |
@@ -223,4 +228,13 @@ Se investigó el mercado con datos reales y se diseñó todo esto:
 2. Preguntar al dueño por los tres bloqueos de §8 y por la dirección visual.
 3. Revisar Search Console de los últimos 28 días (¿siguen las impresiones? ¿cambió la posición de "productora audiovisual"?).
 4. Si se va a construir: abrir el doc 07 y empezar por la salvaguarda de datos de prueba y las comprobaciones de longitud y H1.
-5. Al terminar cualquier trabajo, **actualizar este traspaso** (fecha, estado, decisiones, riesgos).
+5. Al terminar cualquier trabajo, **actualizar este traspaso** (fecha, estado, decisiones, riesgos) y añadir una línea al registro de cambios.
+
+---
+
+## 15. Registro de cambios
+| Fecha | Cambio |
+|---|---|
+| 31 oct 2026 | Docs 01–09, `vercel.json`, tres direcciones visuales, datos de prueba. Rama `v1` congelada (hasta el doc 08 y la revisión de la proyección SEM) |
+| 1 nov 2026 | Tercera auditoría (doc 10) y este traspaso; correcciones de coherencia en docs 01, 03, 04, 05, 09 y `CLAUDE.md` |
+| 1 nov 2026 | Auditoría SEM y plan corregido (doc 11); contenido del doc 06 ajustado a la auditoría; corrección del doc 09 sobre dispositivos y formulario de Ads |
